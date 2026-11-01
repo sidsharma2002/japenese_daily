@@ -1,0 +1,61 @@
+﻿Day,Week,Pattern,Meaning,Form,Example (JP),Example (EN),Tip
+1,1,～ようにする,make an effort to,V (dict. / ない) + ようにする,毎日、日本語を聞くようにしています。,I make a point of listening to Japanese every day.,ようにする = keep trying.  ことにする = a decision.
+1,1,～ことにする,decide to,V (dict. / ない) + ことにする,今日から毎朝三十分勉強することにしました。,I decided to study 30 min every morning.,ようにする = keep trying.  ことにする = a decision.
+2,1,～らしい,apparently / seems,V・い-adj・N (plain) + らしい,田中さんは試験の前で、緊張しているらしい。,Apparently Tanaka is nervous before the exam.,らしい = you heard or saw it.  がち = usually bad things.
+2,1,～がち,tend to (often bad),V (ます stem) + がち,疲れていると、ミスをしがちです。,"When tired, I tend to make mistakes.",らしい = you heard or saw it.  がち = usually bad things.
+3,1,～ことになっている,it is the rule / plan,V (dict. / ない) + ことになっている,会議は毎週月曜日にあることになっています。,The meeting is set for every Monday.,"ことになっている = set by a rule or schedule, not by you."
+3,1,～たびに,every time,V (dict.) / N + の + たびに,発表のたびに、緊張します。,I get nervous every time I present.,"ことになっている = set by a rule or schedule, not by you."
+4,1,～ところだ,about to / doing / just did,Vる・Vている・Vた + ところだ,今、駅を出るところです。,I'm just about to leave the station.,ところだ: Vる = soon.  Vている = now.  Vた = just done.
+4,1,～はずだ,should / is expected to,V (plain) + はずだ,電車は十時に着くはずです。,The train should arrive at 10.,ところだ: Vる = soon.  Vている = now.  Vた = just done.
+5,1,～ようになる,come to (be able to),V (dict. / ない) + ようになる,毎日聞いて、日本語がわかるようになりました。,"By listening daily, I've come to understand Japanese.","ようになる = change over time.  ばかり = only this, nothing else."
+5,1,～てばかりいる,do nothing but,Vて + ばかりいる,弟はゲームをしてばかりいる。,My little brother does nothing but play games.,"ようになる = change over time.  ばかり = only this, nothing else."
+8,2,～まま,as it is,V (た / ない) + まま,窓を開けたまま出かけてしまいました。,I went out leaving the window open.,"まま = nothing changes.  っぱなし = left on, left open (bad)."
+8,2,～っぱなし,left on / left as is,V (ます stem) + っぱなし,電気をつけっぱなしで寝てしまった。,I fell asleep with the light left on.,"まま = nothing changes.  っぱなし = left on, left open (bad)."
+9,2,～おかげで,thanks to,N / V (plain) + おかげで,友達が教えてくれたおかげで、おいしい店を見つけた。,"Thanks to my friend telling me, I found a tasty restaurant.",おかげで = good result.  せいで = bad result.
+9,2,～せいで,because of (bad result),N / V (plain) + せいで,食べすぎたせいで、お腹が痛い。,"Because I ate too much, my stomach hurts.",おかげで = good result.  せいで = bad result.
+10,2,～うちに,while it lasts,V (dict.) / い-adj + うちに,若いうちに、いろいろな経験をしたい。,I want to try many things while I'm young.,うちに = while it lasts.  ないうちに = before it changes.
+10,2,～ないうちに,before it changes,V (ない) + うちに,風邪がひどくならないうちに、早く寝ます。,I'll sleep early before my cold gets worse.,うちに = while it lasts.  ないうちに = before it changes.
+11,2,～かわりに,instead of / in return,N の + かわりに / V + かわりに,現金のかわりに、カードで払います。,I'll pay by card instead of cash.,かわりに = instead of / in return.  ほど～ない = no one is that much.
+11,2,～ほど～ない,not as ~ as,N + ほど + ～ない,彼ほど親切な人はいない。,There is no one as kind as him.,かわりに = instead of / in return.  ほど～ない = no one is that much.
+12,2,～くせに,even though (blame),V・い-adj・N の / な + くせに,知っているくせに、教えてくれない。,"Even though he knows, he won't tell me.","くせに = you blame the person.  ふり = pretend, fake it."
+12,2,～ふりをする,pretend to,V (plain) / N の + ふりをする,彼は寝ているふりをしていた。,He was pretending to sleep.,"くせに = you blame the person.  ふり = pretend, fake it."
+15,3,～によって,depending on / by,N + によって,国によって、ルールがちがいます。,Rules differ depending on the country.,によって = depends on / caused by.  に対して = toward / versus.
+15,3,～に対して,toward / in contrast to,N + に対して,客に対して、失礼なことを言ってはいけない。,You must not say rude things to customers.,によって = depends on / caused by.  に対して = toward / versus.
+16,3,～として,as (a role),N + として,田中さんは営業部の代表として、会議に出ます。,Tanaka attends the meeting as the sales department's representative.,として = in the role of.  について = about a topic.
+16,3,～について,about (a topic),N + について,新しい制度について、説明してください。,Please explain about the new system.,として = in the role of.  について = about a topic.
+17,3,～べきだ,should,V (dict.) + べきだ,公共の場所では、静かにするべきだ。,You should be quiet in public places.,"べきだ = strong advice.  ものだ = common sense, how things are."
+17,3,～ものだ,it is natural to,V (dict.) + ものだ,年上の人には、礼儀正しくするものだ。,One should be polite to older people.,"べきだ = strong advice.  ものだ = common sense, how things are."
+18,3,～につれて,"as ~ changes, so does",V (dict.) / N + につれて,気温が上がるにつれて、雪がとけていく。,"As the temperature rises, the snow melts.","につれて = A changes, B changes too.  とともに = at the same time, together."
+18,3,～とともに,together with / as,N / V (dict.) + とともに,技術の進歩とともに、生活は便利になった。,"Along with technological progress, life became convenient.","につれて = A changes, B changes too.  とともに = at the same time, together."
+19,3,～ように,so that,V (dict. / potential / ない) + ように,試験に合格できるように、毎日勉強しています。,I study every day so that I can pass the exam.,"ように = a goal you can't fully control.  だけでなく = not only, also."
+19,3,～だけでなく,not only ~ but also,N / V + だけでなく、～も,この学校は勉強だけでなく、スポーツも盛んだ。,This school is strong not only in study but also in sports.,"ように = a goal you can't fully control.  だけでなく = not only, also."
+22,4,～わけだ,no wonder / that's why,V・い-adj・な-adj (plain) + わけだ,毎日練習しているから、上手なわけだ。,"He practices daily, so no wonder he's good.","わけだ = of course, it follows.  わけではない = not exactly, not always."
+22,4,～わけではない,not necessarily,V・い-adj・な-adj (plain) + わけではない,日本語が嫌いなわけではありません。,It's not that I dislike Japanese.,"わけだ = of course, it follows.  わけではない = not exactly, not always."
+23,4,～に違いない,must be,V・い-adj・N (plain) + に違いない,電気がついているから、彼は家にいるに違いない。,"The light is on, so he must be home.",に違いない = you feel 100% sure.  とは限らない = there are exceptions.
+23,4,～とは限らない,not necessarily,N / V (plain) + とは限らない,高い物がいい物とは限らない。,Expensive things aren't necessarily good.,に違いない = you feel 100% sure.  とは限らない = there are exceptions.
+24,4,～に比べて,compared with,N + に比べて,去年に比べて、今年は雨が多い。,"Compared with last year, this year has more rain.",に比べて = A vs B.  一方で = two things move in opposite ways.
+24,4,～一方で,while / on the other hand,V (dict.) / N + 一方で,人口が増える一方で、仕事は減っている。,"While the population grows, jobs are decreasing.",に比べて = A vs B.  一方で = two things move in opposite ways.
+25,4,～ば～ほど,"the more ~, the more",V-ば + V (dict.) + ほど,練習すればするほど、上手になる。,"The more you practice, the better you get.","ば～ほど = more A, more B.  くらい = shows how much."
+25,4,～くらい,to the extent of,V (plain) / N + くらい,泣きたいくらい、うれしかった。,I was so happy I could cry.,"ば～ほど = more A, more B.  くらい = shows how much."
+26,4,～にしては,for (a ~),N / V (plain) + にしては,彼は初心者にしては、とても上手だ。,"For a beginner, he's very good.",にしては = result differs from expectation.  としても = even if (assume it's true).
+26,4,～としても,even if,V・い-adj・N (plain) + としても,今から急いだとしても、間に合わないだろう。,"Even if we hurry from now, we won't make it.",にしては = result differs from expectation.  としても = even if (assume it's true).
+29,5,～に関して,regarding,N + に関して,環境問題に関して、意見を聞かせてください。,Please tell me your opinion regarding environmental issues.,に関して = formal 'about'.  にわたって = covers a long time or a wide area.
+29,5,～にわたって,over (time / area),N + にわたって,会議は三時間にわたって行われた。,The meeting went on for three hours.,に関して = formal 'about'.  にわたって = covers a long time or a wide area.
+30,5,～に基づいて,based on,N + に基づいて,調査結果に基づいて、計画を作った。,We made the plan based on the survey results.,"に基づいて = built on facts or data.  をはじめ = 'X and others', X is the main example."
+30,5,～をはじめ,starting with,N + をはじめ,東京をはじめ、全国で大雪になった。,"Heavy snow fell nationwide, starting with Tokyo.","に基づいて = built on facts or data.  をはじめ = 'X and others', X is the main example."
+31,5,～にもかかわらず,despite,N / V / い-adj (plain) + にもかかわらず,雨にもかかわらず、多くの人が集まった。,"Despite the rain, many people gathered.","にもかかわらず = despite (formal).  ざるを得ない = forced, no other way."
+31,5,～ざるを得ない,have no choice but to,V (ない stem) + ざるを得ない,人手が足りないので、残業せざるを得ない。,"We're short-staffed, so we have no choice but to work overtime.","にもかかわらず = despite (formal).  ざるを得ない = forced, no other way."
+32,5,～に応じて,according to,N + に応じて,収入に応じて、税金が変わる。,Taxes change according to income.,に応じて = adjusts to the situation.  を通じて = by means of / throughout.
+32,5,～を通じて,through / throughout,N + を通じて,インターネットを通じて、世界中の人と話せる。,"Through the internet, I can talk with people worldwide.",に応じて = adjusts to the situation.  を通じて = by means of / throughout.
+33,5,～かねない,might well (bad),V (ます stem) + かねない,このままでは、事故になりかねない。,"If this continues, it could lead to an accident.",かねない = a bad thing might happen.  ずにはいられない = can't stop yourself.
+33,5,～ずにはいられない,can't help doing,V (ない stem) + ずにはいられない,その映画を見ると、泣かずにはいられない。,"When I watch that movie, I can't help crying.",かねない = a bad thing might happen.  ずにはいられない = can't stop yourself.
+36,6,お～になる,honorific (R),お + V (ます stem) + になる,社長はもうお帰りになりました。,The president has already gone home.,"R = respect (lifts them up).  H = humble (lowers you). お～になる = R, お～する = H."
+36,6,お～する,humble (H),お + V (ます stem) + する,資料は私がお持ちします。,I will carry the materials.,"R = respect (lifts them up).  H = humble (lowers you). お～になる = R, お～する = H."
+37,6,～ことはない,no need to,V (dict.) + ことはない,心配することはありません。,There's no need to worry.,"ことはない = no need.  わけにはいかない = can't, for moral or practical reasons."
+37,6,～わけにはいかない,can't (for a reason),V (dict. / ない) + わけにはいかない,明日は試験なので、遊んでいるわけにはいかない。,"I have an exam tomorrow, so I can't just play around.","ことはない = no need.  わけにはいかない = can't, for moral or practical reasons."
+38,6,～うえに,on top of that,V (plain) / い-adj / N の + うえに,彼は頭がいいうえに、性格もいい。,"On top of being smart, he also has a good personality.","うえに = adds one more point.  ところだった = it almost happened, but didn't."
+38,6,～ところだった,almost did,V (dict.) + ところだった,もう少しで電車に乗り遅れるところだった。,I almost missed the train.,"うえに = adds one more point.  ところだった = it almost happened, but didn't."
+39,6,～させていただく,humble 'let me',V (ない) + せて + いただく,明日、休ませていただけませんか。,Could I please take tomorrow off?,"Japanese changes some English words. マンション = an apartment, not a mansion."
+39,6,～させられる,be made to,V (ない) + せられる,子どものころ、野菜を食べさせられた。,"When I was a kid, I was made to eat vegetables.","Japanese changes some English words. マンション = an apartment, not a mansion."
+40,6,～というより,rather than,N / V (plain) + というより,彼は先生というより、友達みたいな存在だ。,He's more like a friend than a teacher.,というより = 'rather than saying...'.  ということだ = reporting what you heard.
+40,6,～ということだ,I heard / it means,V (plain) + ということだ,天気予報によると、明日は雪だということだ。,"According to the forecast, it will snow tomorrow.",というより = 'rather than saying...'.  ということだ = reporting what you heard.

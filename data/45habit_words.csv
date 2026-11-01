@@ -1,0 +1,301 @@
+﻿Day,Week,Word,Reading,Meaning
+1,1,予定,よてい,schedule
+1,1,予約,よやく,reservation
+1,1,約束,やくそく,promise
+1,1,決める,きめる,decide
+1,1,続く,つづく,go on
+1,1,続ける,つづける,keep doing
+1,1,習慣,しゅうかん,habit
+1,1,目標,もくひょう,goal
+1,1,努力,どりょく,effort
+1,1,計画,けいかく,plan
+2,1,緊張,きんちょう,nervous
+2,1,心配,しんぱい,worry
+2,1,安心,あんしん,relief
+2,1,不安,ふあん,uneasy
+2,1,満足,まんぞく,satisfied
+2,1,残念,ざんねん,too bad
+2,1,喜ぶ,よろこぶ,be glad
+2,1,悲しい,かなしい,sad
+2,1,恥ずかしい,はずかしい,embarrassed
+2,1,念のため,ねんのため,just in case
+3,1,会議,かいぎ,meeting
+3,1,資料,しりょう,documents
+3,1,締め切り,しめきり,deadline
+3,1,提出,ていしゅつ,hand in
+3,1,連絡,れんらく,contact
+3,1,相談,そうだん,consult
+3,1,参加,さんか,join
+3,1,説明,せつめい,explain
+3,1,準備,じゅんび,prepare
+3,1,経験,けいけん,experience
+4,1,交通,こうつう,traffic
+4,1,渋滞,じゅうたい,traffic jam
+4,1,遅れる,おくれる,be late
+4,1,間に合う,まにあう,be in time
+4,1,到着,とうちゃく,arrival
+4,1,出発,しゅっぱつ,departure
+4,1,観光,かんこう,sightseeing
+4,1,旅行,りょこう,trip
+4,1,案内,あんない,guide
+4,1,地図,ちず,map
+5,1,最近,さいきん,recently
+5,1,普段,ふだん,usually
+5,1,毎回,まいかい,every time
+5,1,時々,ときどき,sometimes
+5,1,急に,きゅうに,suddenly
+5,1,次第に,しだいに,gradually
+5,1,以前,いぜん,before
+5,1,以内,いない,within
+5,1,期間,きかん,period
+5,1,初めて,はじめて,first time
+8,2,引っ越し,ひっこし,moving house
+8,2,家賃,やちん,rent
+8,2,近所,きんじょ,neighborhood
+8,2,掃除,そうじ,cleaning
+8,2,洗濯,せんたく,laundry
+8,2,片付ける,かたづける,tidy up
+8,2,散らかる,ちらかる,be messy
+8,2,鍵,かぎ,key
+8,2,迷惑,めいわく,nuisance
+8,2,留守,るす,being out
+9,2,材料,ざいりょう,ingredients
+9,2,味,あじ,taste
+9,2,薄い,うすい,"weak, thin"
+9,2,濃い,こい,"strong, thick"
+9,2,辛い,からい,spicy
+9,2,苦い,にがい,bitter
+9,2,冷める,さめる,get cold
+9,2,注文,ちゅうもん,order
+9,2,割り勘,わりかん,split the bill
+9,2,行列,ぎょうれつ,queue
+10,2,健康,けんこう,health
+10,2,体調,たいちょう,condition
+10,2,熱,ねつ,fever
+10,2,咳,せき,cough
+10,2,痛む,いたむ,"ache, hurt"
+10,2,治る,なおる,get well
+10,2,診察,しんさつ,exam (doctor)
+10,2,予防,よぼう,prevention
+10,2,睡眠,すいみん,sleep
+10,2,症状,しょうじょう,symptom
+11,2,給料,きゅうりょう,salary
+11,2,貯金,ちょきん,savings
+11,2,節約,せつやく,saving money
+11,2,無駄,むだ,waste
+11,2,値段,ねだん,price
+11,2,値上げ,ねあげ,price rise
+11,2,払う,はらう,pay
+11,2,支払い,しはらい,payment
+11,2,財布,さいふ,wallet
+11,2,税金,ぜいきん,tax
+12,2,恋人,こいびと,partner
+12,2,喧嘩,けんか,fight
+12,2,仲直り,なかなおり,make up
+12,2,誤解,ごかい,misunderstand
+12,2,信頼,しんらい,trust
+12,2,尊敬,そんけい,respect
+12,2,遠慮,えんりょ,hold back
+12,2,我慢,がまん,endure
+12,2,親切,しんせつ,kind
+12,2,付き合う,つきあう,go out with
+15,3,事件,じけん,incident
+15,3,事故,じこ,accident
+15,3,災害,さいがい,disaster
+15,3,被害,ひがい,damage
+15,3,犯人,はんにん,culprit
+15,3,政府,せいふ,government
+15,3,選挙,せんきょ,election
+15,3,制度,せいど,system
+15,3,人口,じんこう,population
+15,3,増加,ぞうか,increase
+16,3,営業,えいぎょう,sales
+16,3,部署,ぶしょ,department
+16,3,上司,じょうし,boss
+16,3,部下,ぶか,subordinate
+16,3,同僚,どうりょう,colleague
+16,3,残業,ざんぎょう,overtime
+16,3,出張,しゅっちょう,business trip
+16,3,契約,けいやく,contract
+16,3,採用,さいよう,hiring
+16,3,退職,たいしょく,quit a job
+17,3,規則,きそく,rule
+17,3,守る,まもる,"keep, protect"
+17,3,破る,やぶる,"break, tear"
+17,3,注意,ちゅうい,caution
+17,3,礼儀,れいぎ,manners
+17,3,態度,たいど,attitude
+17,3,常識,じょうしき,common sense
+17,3,公共,こうきょう,public
+17,3,違反,いはん,violation
+17,3,罰金,ばっきん,fine (money)
+18,3,環境,かんきょう,environment
+18,3,自然,しぜん,nature
+18,3,資源,しげん,resources
+18,3,地球,ちきゅう,the Earth
+18,3,温暖化,おんだんか,global warming
+18,3,汚染,おせん,pollution
+18,3,森林,しんりん,forest
+18,3,気温,きおん,temperature
+18,3,危機,きき,crisis
+18,3,保護,ほご,protection
+19,3,教育,きょういく,education
+19,3,授業,じゅぎょう,class
+19,3,宿題,しゅくだい,homework
+19,3,成績,せいせき,grades
+19,3,受験,じゅけん,take an exam
+19,3,合格,ごうかく,pass
+19,3,入学,にゅうがく,enter school
+19,3,卒業,そつぎょう,graduate
+19,3,留学,りゅうがく,study abroad
+19,3,試験,しけん,exam
+22,4,意見,いけん,opinion
+22,4,賛成,さんせい,agree
+22,4,反対,はんたい,oppose
+22,4,理由,りゆう,reason
+22,4,主張,しゅちょう,claim
+22,4,結論,けつろん,conclusion
+22,4,確かに,たしかに,certainly
+22,4,実は,じつは,actually
+22,4,例えば,たとえば,for example
+22,4,要するに,ようするに,in short
+23,4,原因,げんいん,cause
+23,4,結果,けっか,result
+23,4,影響,えいきょう,influence
+23,4,関係,かんけい,relation
+23,4,目的,もくてき,purpose
+23,4,効果,こうか,effect
+23,4,成功,せいこう,success
+23,4,失敗,しっぱい,failure
+23,4,可能,かのう,possible
+23,4,必要,ひつよう,necessary
+24,4,変化,へんか,change
+24,4,成長,せいちょう,growth
+24,4,発展,はってん,development
+24,4,進歩,しんぽ,progress
+24,4,改善,かいぜん,improvement
+24,4,悪化,あっか,get worse
+24,4,減る,へる,decrease
+24,4,増える,ふえる,increase
+24,4,変わる,かわる,change
+24,4,伸びる,のびる,"grow, stretch"
+25,4,程度,ていど,degree
+25,4,平均,へいきん,average
+25,4,以上,いじょう,or more
+25,4,以下,いか,or less
+25,4,約,やく,about
+25,4,最低,さいてい,"lowest, worst"
+25,4,最高,さいこう,"best, highest"
+25,4,差,さ,difference
+25,4,大幅,おおはば,sharply
+25,4,ほぼ,,almost
+26,4,しかし,,however
+26,4,だから,,"so, therefore"
+26,4,ところが,,but (unexpected)
+26,4,つまり,,in other words
+26,4,それに,,besides
+26,4,そのうえ,,on top of that
+26,4,ただし,,"however, provided"
+26,4,または,,or
+26,4,すると,,"then, and so"
+26,4,そこで,,"so, therefore"
+29,5,傾向,けいこう,tendency
+29,5,状況,じょうきょう,situation
+29,5,現象,げんしょう,phenomenon
+29,5,対象,たいしょう,target
+29,5,割合,わりあい,ratio
+29,5,一般,いっぱん,general
+29,5,全体,ぜんたい,whole
+29,5,特徴,とくちょう,feature
+29,5,要素,ようそ,element
+29,5,基本,きほん,basics
+30,5,業績,ぎょうせき,performance
+30,5,利益,りえき,profit
+30,5,損失,そんしつ,loss
+30,5,需要,じゅよう,demand
+30,5,供給,きょうきゅう,supply
+30,5,競争,きょうそう,competition
+30,5,取引,とりひき,transaction
+30,5,顧客,こきゃく,customer
+30,5,経営,けいえい,management
+30,5,販売,はんばい,sales
+31,5,少子化,しょうしか,fewer births
+31,5,高齢化,こうれいか,aging society
+31,5,格差,かくさ,gap
+31,5,貧困,ひんこん,poverty
+31,5,失業,しつぎょう,unemployment
+31,5,差別,さべつ,discrimination
+31,5,課題,かだい,"issue, task"
+31,5,解決,かいけつ,solution
+31,5,対策,たいさく,measures
+31,5,意識,いしき,awareness
+32,5,景気,けいき,economy
+32,5,物価,ぶっか,prices
+32,5,賃金,ちんぎん,wages
+32,5,消費,しょうひ,spending
+32,5,投資,とうし,investment
+32,5,収入,しゅうにゅう,income
+32,5,支出,ししゅつ,expenses
+32,5,負担,ふたん,burden
+32,5,予算,よさん,budget
+32,5,貯蓄,ちょちく,savings
+33,5,判断,はんだん,judgment
+33,5,可能性,かのうせい,possibility
+33,5,確認,かくにん,confirm
+33,5,検討,けんとう,consider
+33,5,納得,なっとく,be convinced
+33,5,否定,ひてい,deny
+33,5,評価,ひょうか,evaluation
+33,5,批判,ひはん,criticism
+33,5,同意,どうい,agree
+33,5,責任,せきにん,responsibility
+36,6,いらっしゃる,,"be, go (R)"
+36,6,召し上がる,めしあがる,eat (R)
+36,6,拝見する,はいけんする,see (H)
+36,6,伺う,うかがう,"visit, ask (H)"
+36,6,申す,もうす,say (H)
+36,6,ご覧になる,ごらんになる,see (R)
+36,6,いただく,,receive (H)
+36,6,くださる,,give me (R)
+36,6,存じる,ぞんじる,know (H)
+36,6,参る,まいる,"go, come (H)"
+37,6,非常に,ひじょうに,extremely
+37,6,次々,つぎつぎ,one after another
+37,6,徐々に,じょじょに,gradually
+37,6,偶然,ぐうぜん,by chance
+37,6,実際,じっさい,in fact
+37,6,結局,けっきょく,after all
+37,6,相当,そうとう,considerably
+37,6,当然,とうぜん,naturally
+37,6,絶対,ぜったい,absolutely
+37,6,突然,とつぜん,suddenly
+38,6,顔が広い,かおがひろい,well-connected
+38,6,手が足りない,てがたりない,short of hands
+38,6,目に入る,めにはいる,catch the eye
+38,6,耳にする,みみにする,hear of
+38,6,口に合う,くちにあう,suit your taste
+38,6,頭が痛い,あたまがいたい,be a headache
+38,6,気が合う,きがあう,get along
+38,6,腹が立つ,はらがたつ,get angry
+38,6,足を運ぶ,あしをはこぶ,go in person
+38,6,肩を持つ,かたをもつ,take sides
+39,6,マンション,,apartment
+39,6,クレーム,,complaint
+39,6,リフォーム,,renovation
+39,6,キャンセル,,cancel
+39,6,サイン,,signature
+39,6,バイキング,,buffet
+39,6,コンセント,,power outlet
+39,6,ベテラン,,expert
+39,6,アルバイト,,part-time job
+39,6,リサイクル,,recycling
+40,6,選ぶ,えらぶ,choose
+40,6,正しい,ただしい,correct
+40,6,間違い,まちがい,mistake
+40,6,適当,てきとう,suitable
+40,6,下線,かせん,underline
+40,6,空欄,くうらん,blank space
+40,6,文章,ぶんしょう,passage
+40,6,筆者,ひっしゃ,author
+40,6,内容,ないよう,content
+40,6,趣旨,しゅし,main point
