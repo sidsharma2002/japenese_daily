@@ -1,0 +1,1 @@
+# japenese_daily
