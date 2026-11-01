@@ -1,0 +1,81 @@
+{
+  "topic": "Never use ことにする for a habit: ようにする vs ことにする rules",
+  "tag": "GRAMMAR TRAP",
+  "closeLabel": "RECAP",
+  "script": {
+    "hook": "Never use ことにする for a daily habit. It makes your habit sound like a one-time decision.",
+    "points": [
+      "Rule one. Use ようにする for effort. It means, I make a point of doing it. Like, I make a point of listening to Japanese every day. You keep trying, again and again.",
+      "Rule two. Use ことにする for a decision. It means, I decided to. Like, from today, I decided to study thirty minutes every morning. You chose it once, and that is it.",
+      "Rule three. Run a quick test before you speak. Ask yourself, did I decide, or am I trying? If you decided, say ことにする. If you are trying, say ようにする."
+    ],
+    "takeaway": "Remember, こと is a decision. よう is an effort.",
+    "cta": "Follow for one Japanese tip every day."
+  },
+  "nodes": [
+    {
+      "title": ["Habit is", "not a decision"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "Daily habit + ことにする", "icon": "x", "strike": true, "cue": "never"},
+          {"text": "Sounds like a one-time choice", "icon": "x", "cue": "one-time"}
+        ]},
+        {"type": "cells", "items": [
+          {"text": "ようにする", "jp": true, "size": 40, "cue": "habit"},
+          {"text": "ことにする", "jp": true, "size": 40, "cue": "decision"}
+        ]}
+      ]
+    },
+    {
+      "title": ["1. Effort:", {"t": "ようにする", "jp": true}],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "I make a point of it", "icon": "ok", "cue": "make a point"}
+        ]},
+        {"type": "example", "jp": "毎日、日本語を聞く\nようにしています。", "en": "I make a point of listening to Japanese every day.", "note": "KEEP TRYING", "cue": "like", "enCue": "listening", "noteCue": "again"}
+      ]
+    },
+    {
+      "title": ["2. Decision:", {"t": "ことにする", "jp": true}],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "I decided to", "icon": "ok", "cue": "decided"}
+        ]},
+        {"type": "example", "jp": "今日から毎朝三十分勉強する\nことにしました。", "en": "From today I decided to study 30 minutes every morning.", "note": "CHOSEN ONCE", "cue": "like", "enCue": "thirty", "noteCue": "chose"}
+      ]
+    },
+    {
+      "title": ["3. The test"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "Decided?", "sub": "ことにする", "icon": "ok", "cue": "if you decided", "minW": 230},
+          {"text": "Trying?", "sub": "ようにする", "icon": "ok", "cue": "if you are trying", "minW": 230}
+        ]}
+      ]
+    },
+    {
+      "title": ["Decision", "or effort?"],
+      "blocks": [
+        {"type": "pills", "items": [
+          {"text": "こと = decision", "jp": true, "size": 36, "cue": "こと"},
+          {"text": "よう = effort", "jp": true, "size": 36, "cue": "よう"}
+        ]},
+        {"type": "cta", "text": "Follow", "icon": "plus", "cue": "follow"}
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "GRAMMAR TRAP",
+    "lines": ["Never say", "this habit"],
+    "sub": "ようにする vs ことにする",
+    "card": {"type": "cells", "items": [
+      {"text": "ようにする", "jp": true, "size": 44},
+      {"text": "ことにする", "jp": true, "size": 44}
+    ]}
+  },
+  "social": {
+    "caption": "Never use ことにする for a daily habit. It sounds like a one-time decision.\n\n1. ようにする (youni suru) = I make a point of it. Effort, keep trying.\n   毎日、日本語を聞くようにしています。\n2. ことにする (koto ni suru) = I decided to. A choice made once.\n   今日から毎朝三十分勉強することにしました。\n3. Test: did I decide, or am I trying?\n\nFollow for one Japanese tip every day.",
+    "hashtags": "#LearnJapanese #JapaneseGrammar #JLPT #JapaneseLanguage #Japanese"
+  },
+  "meta": {"format": "value", "pillar": "grammar-traps", "shape": "rules-list", "angle": "", "cta": "follow", "refs": "csv:grammar:1"}
+}
