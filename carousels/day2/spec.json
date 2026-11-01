@@ -1,0 +1,88 @@
+{
+  "topic": "三日坊主: why you quit in week one and what fixes it",
+  "slides": [
+    {
+      "kind": "cover",
+      "label": "三日坊主",
+      "title": ["Why you", "quit in", "week one."],
+      "sub": "The Japanese word for it, and the fix",
+      "blocks": [
+        { "type": "jp", "jp": "三日坊主", "reading": "みっかぼうず", "en": "three-day monk", "size": 110 }
+      ],
+      "hook": "Why you quit Japanese in week one, and the Japanese word for it."
+    },
+    {
+      "label": "THE WORD",
+      "title": ["Meet the", "three-day monk"],
+      "blocks": [
+        { "type": "jp", "jp": "三日坊主", "reading": "みっかぼうず", "en": "someone who quits after three days", "size": 120 },
+        { "type": "rows", "items": [
+          { "text": "三日 = three days", "jp": true, "icon": "ok" },
+          { "text": "坊主 = a monk", "jp": true, "icon": "ok" }
+        ] }
+      ]
+    },
+    {
+      "label": "IN A SENTENCE",
+      "title": ["Use it", "today"],
+      "blocks": [
+        { "type": "example", "jp": "私は三日坊主だ。", "en": "I always quit after three days.", "note": "ABOUT YOURSELF", "size": 64 },
+        { "type": "example", "jp": "日記が三日坊主に終わった。", "en": "My diary ended after three days.", "note": "ABOUT A HABIT", "size": 54 }
+      ]
+    },
+    {
+      "label": "THE CAUSE",
+      "title": ["It is rarely", "willpower"],
+      "blocks": [
+        { "type": "rows", "items": [
+          { "text": "Plan too big", "icon": "x", "tone": "dim" },
+          { "text": "Decide what to study daily", "icon": "x", "tone": "dim" },
+          { "text": "One missed day becomes quitting", "icon": "x", "tone": "dim" }
+        ] }
+      ]
+    },
+    {
+      "label": "FIX 1",
+      "title": ["Shrink the", "daily floor"],
+      "blocks": [
+        { "type": "panel", "label": "15 MINUTES STILL COUNTS", "items": [
+          { "type": "rows", "items": [
+            { "text": "5 words", "icon": "ok" },
+            { "text": "1 grammar point", "icon": "ok" },
+            { "text": "5 min listening", "icon": "ok" }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "label": "FIX 2",
+      "title": ["Miss once,", "never twice"],
+      "blocks": [
+        { "type": "big", "text": "1 miss = fine", "size": 90, "sub": "2 misses in a row = the habit dies", "h": 260 },
+        { "type": "streak", "n": 15, "cols": 15, "from": 0, "to": 1, "misses": [6] }
+      ]
+    },
+    {
+      "label": "FIX 3",
+      "title": ["Remove the", "decision"],
+      "blocks": [
+        { "type": "rows", "items": [
+          { "text": "What do I study today?", "icon": "x", "tone": "dim", "strike": true },
+          { "text": "Open the page. Do the page.", "icon": "ok" }
+        ] },
+        { "type": "big", "text": "One page a day", "size": 80, "sub": "10 words, 5 kanji, 2 grammar points", "h": 240 }
+      ]
+    },
+    {
+      "kind": "cta",
+      "title": ["Want the", "45-day plan?"],
+      "blocks": [ { "type": "cta", "text": "Comment 45", "icon": "bubble" } ]
+    }
+  ],
+  "social": {
+    "caption": "Why you quit Japanese in week one, and the Japanese word for it.\n\n三日坊主 (みっかぼうず) = a three-day monk, someone who quits after three days.\n私は三日坊主だ。 = I always quit after three days.\n\nThe fix: shrink the daily floor (mini mode: five words, one grammar point, five minutes of listening), miss once but never twice, and remove the decision of what to study.\n\nComment 45 and I'll send you the link.",
+    "hashtags": "#LearnJapanese #JapaneseStudy #JLPT #StudyHabits #Japanese"
+  },
+  "meta": { "format": "planner", "pillar": "planner", "shape": "", "angle": "three-day-monk", "cta": "comment45", "refs": "" },
+  "sources": []
+}
