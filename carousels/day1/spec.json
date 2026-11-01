@@ -1,0 +1,37 @@
+{
+  "topic": "5 kanji for plans and habits: 予 約 決 続 慣",
+  "slides": [
+    {"kind":"cover","label":"KANJI DECODED","title":["5 kanji","run your","week"],"sub":"plans, promises, decisions, habits",
+     "blocks":[{"type":"cells","items":[{"text":"予","jp":true,"size":60},{"text":"約","jp":true,"size":60},{"text":"決","jp":true,"size":60},{"text":"続","jp":true,"size":60},{"text":"慣","jp":true,"size":60}],"h":130}],
+     "hook":"These 5 kanji run your whole week: 予 約 決 続 慣"},
+    {"label":"RULE 1","title":[{"t":"予","jp":true},{"t":"= beforehand","grey":true}],
+     "blocks":[{"type":"jp","jp":"予定","reading":"yotei","en":"plan, schedule","size":130},
+               {"type":"rows","items":[{"text":"On-reading","sub":"ヨ","minW":300,"subSize":34},{"text":"Think","sub":"done before the day comes","minW":300,"subSize":30}]}]},
+    {"label":"RULE 2","title":[{"t":"約","jp":true},{"t":"= promise","grey":true}],
+     "blocks":[{"type":"jp","jp":"約束","reading":"yakusoku","en":"a promise, an appointment","size":130},
+               {"type":"rows","items":[{"text":"On-reading","sub":"ヤク","minW":300,"subSize":34},{"text":"Think","sub":"a word you have agreed to","minW":300,"subSize":30}]}]},
+    {"label":"RULE 3","title":[{"t":"決","jp":true},{"t":"= decide","grey":true}],
+     "blocks":[{"type":"jp","jp":"決める","reading":"kimeru","en":"to decide","size":130},
+               {"type":"rows","items":[{"text":"On-reading","sub":"ケツ","minW":300,"subSize":34},{"text":"Kun-reading","sub":"き-める","minW":300,"subSize":34}]}]},
+    {"label":"RULE 4","title":[{"t":"続","jp":true},{"t":"= continue","grey":true}],
+     "blocks":[{"type":"jp","jp":"続く","reading":"tsuzuku","en":"to continue, to go on","size":130},
+               {"type":"rows","items":[{"text":"On-reading","sub":"ゾク","minW":300,"subSize":34},{"text":"Kun-reading","sub":"つづ-く","minW":300,"subSize":34}]}]},
+    {"label":"RULE 5","title":[{"t":"慣","jp":true},{"t":"= get used to","grey":true}],
+     "blocks":[{"type":"jp","jp":"習慣","reading":"shuukan","en":"habit","size":130},
+               {"type":"rows","items":[{"text":"On-reading","sub":"カン","minW":300,"subSize":34},{"text":"Kun-reading","sub":"な-れる","minW":300,"subSize":34}]}]},
+    {"label":"THE CHAIN","title":["Plan to","habit"],
+     "blocks":[{"type":"rows","items":[
+        {"text":"予定","jp":true,"sub":"plan","minW":300},
+        {"text":"約束","jp":true,"sub":"promise","minW":300},
+        {"text":"決める","jp":true,"sub":"decide","minW":300},
+        {"text":"続く","jp":true,"sub":"continue","minW":300},
+        {"text":"習慣","jp":true,"sub":"habit","minW":300}]}]},
+    {"kind":"cta","title":["Save this","for later"],"blocks":[{"type":"cta","text":"Save this","icon":"bookmark"}]}
+  ],
+  "social": {
+    "caption": "These 5 kanji run your whole week: 予 約 決 続 慣\n\n予 (ヨ) beforehand: 予定 yotei, plan\n約 (ヤク) promise: 約束 yakusoku, a promise or appointment\n決 (ケツ / き-める) decide: 決める kimeru, to decide\n続 (ゾク / つづ-く) continue: 続く tsuzuku, to continue\n慣 (カン / な-れる) get used to: 習慣 shuukan, habit\n\nPlan, promise, decide, continue, habit. One chain you can read now.\n\nSave this for your next study session.",
+    "hashtags": "#LearnJapanese #Kanji #JapaneseVocabulary #JLPT #Japanese"
+  },
+  "meta": {"format":"value","pillar":"kanji-decoded","shape":"rules-list","angle":"","cta":"save","refs":"csv:kanji:1"},
+  "sources": []
+}
