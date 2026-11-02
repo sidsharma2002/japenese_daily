@@ -1,0 +1,264 @@
+{
+ "topic": "おつかれさま vs ごくろうさま (who you can say it to)",
+ "slides": [
+  {
+   "kind": "cover",
+   "label": "WORK JAPANESE",
+   "title": [
+    "Safe with",
+    "your boss?"
+   ],
+   "sub": "お疲れ様 vs ご苦労様",
+   "blocks": [
+    {
+     "type": "cells",
+     "items": [
+      {
+       "text": "お疲れ様",
+       "jp": true,
+       "size": 48
+      },
+      {
+       "text": "ご苦労様",
+       "jp": true,
+       "size": 48
+      }
+     ]
+    }
+   ],
+   "hook": "One work greeting is safe for your boss, the other can sound rude. お疲れ様 vs ご苦労様"
+  },
+  {
+   "label": "THE IDEA",
+   "title": [
+    "Both mean",
+    "\"good work\""
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "お疲れ様",
+       "jp": true,
+       "sub": "otsukaresama",
+       "minW": 330
+      },
+      {
+       "text": "ご苦労様",
+       "jp": true,
+       "sub": "gokurousama",
+       "minW": 330
+      }
+     ]
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "Who says it to whom",
+       "icon": "clock",
+       "tone": "dim"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "SAFE",
+   "title": [
+    {
+     "t": "お疲れ様です",
+     "jp": true
+    },
+    {
+     "t": "= safe",
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "お疲れ様です。\n先に失礼します。",
+     "en": "Thanks for your hard work. I will head out first.",
+     "note": "TO COWORKERS AND BOSSES"
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "Meaning",
+       "sub": "thanks for your effort",
+       "minW": 200,
+       "subSize": 30
+      },
+      {
+       "text": "Use",
+       "sub": "up, across and down",
+       "minW": 200,
+       "subSize": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "CAREFUL",
+   "title": [
+    {
+     "t": "ご苦労様",
+     "jp": true
+    },
+    {
+     "t": "= from above",
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "ご苦労様。\n助かったよ。",
+     "en": "Good work. That helped.",
+     "note": "A BOSS TO A TEAM MEMBER"
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "To boss",
+       "icon": "x",
+       "tone": "dim",
+       "sub": "can sound rude",
+       "minW": 240
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "WHO SAYS WHAT",
+   "title": [
+    "Pick by",
+    "direction"
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "To boss",
+       "sub": "お疲れ様です",
+       "icon": "ok",
+       "minW": 240
+      },
+      {
+       "text": "To coworker",
+       "sub": "お疲れ様です",
+       "icon": "ok",
+       "minW": 240
+      },
+      {
+       "text": "Boss to you",
+       "sub": "ご苦労様 ok",
+       "icon": "ok",
+       "tone": "soft",
+       "minW": 240
+      },
+      {
+       "text": "You to boss",
+       "sub": "ご苦労様",
+       "icon": "x",
+       "strike": true,
+       "minW": 240
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "QUIZ",
+   "title": [
+    "Your boss says",
+    "ご苦労様"
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "ご苦労様。",
+     "en": "Your boss says this to you. What do you answer?",
+     "note": "YOUR TURN"
+    },
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "お疲れ様です",
+       "jp": true,
+       "icon": "ok",
+       "sub": "safe"
+      },
+      {
+       "text": "ご苦労様",
+       "jp": true,
+       "icon": "x",
+       "sub": "upward: no"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "label": "REMEMBER",
+   "title": [
+    "One line",
+    "to remember"
+   ],
+   "blocks": [
+    {
+     "type": "big",
+     "text": "Not sure?",
+     "size": 90,
+     "h": 200
+    },
+    {
+     "type": "big",
+     "text": "お疲れ様です",
+     "jp": true,
+     "size": 90,
+     "h": 200
+    }
+   ]
+  },
+  {
+   "kind": "cta",
+   "title": [
+    "Send this",
+    "to a friend"
+   ],
+   "blocks": [
+    {
+     "type": "cta",
+     "text": "Send this",
+     "icon": "send"
+    }
+   ]
+  }
+ ],
+ "social": {
+  "caption": "One Japanese work greeting is safe for your boss, the other can sound rude. お疲れ様 vs ご苦労様.\n\nお疲れ様です (otsukaresama desu) = thanks for your hard work. Fine with coworkers and your boss.\nご苦労様 (gokurousama) = good work, said from above. A boss can say it to the team, but you should not say it upward.\n\nIf your boss says ご苦労様 to you, answer with お疲れ様です.\nNot sure who is listening? Pick お疲れ様です.\n\nSend this to someone learning Japanese.",
+  "hashtags": "#LearnJapanese #BusinessJapanese #JapaneseLanguage #Keigo #Japanese"
+ },
+ "meta": {
+  "format": "value",
+  "pillar": "politeness-etiquette",
+  "shape": "x-vs-y",
+  "angle": "",
+  "cta": "share",
+  "refs": "deepen:reel2"
+ },
+ "sources": [
+  "https://www.wasabi-jpn.com/?p=7042",
+  "https://www.japonin.com/deep-dive-otsukaresama-desu-meaning.html",
+  "https://japan-dev.com/blog/otsukaresama-meaning"
+ ]
+}

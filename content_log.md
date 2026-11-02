@@ -7,3 +7,4 @@
 | 2026-11-01 | carousel | 2 | planner | planner |  | three-day-monk | 三日坊主: why you quit in week one and what fixes it | Why you quit Japanese in week one, and the Japanese word for it. | comment45 |  |
 | 2026-11-01 | reel | 2 | value | politeness-etiquette | x-vs-y |  | おつかれさま vs ごくろうさま (who you can say it to) | Do you know why one work greeting is safe for your boss, and the other can sound rude? | share |  |
 | 2026-11-02 | reel | 3 | planner | planner |  | three-day-monk | 三日坊主 (three-day monk): why you quit and the smaller-floor fix | Japanese has one word for people who quit after three days. Here is how to beat it. | comment45 |  |
+| 2026-11-02 | carousel | 3 | value | politeness-etiquette | x-vs-y |  | おつかれさま vs ごくろうさま (who you can say it to) | One work greeting is safe for your boss, the other can sound rude. お疲れ様 vs ご苦労様 | share | deepen:reel2 |
