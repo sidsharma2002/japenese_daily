@@ -1,0 +1,83 @@
+{
+  "topic": "三日坊主 (three-day monk): why you quit and the smaller-floor fix",
+  "tag": "QUIT WORD",
+  "closeLabel": "START",
+  "script": {
+    "hook": "Japanese has one word for people who quit after three days. Here is how to beat it.",
+    "points": [
+      "First, the word. みっかぼうず means a three day monk, someone who gives up after a few days.",
+      "Second, the cause. Big plans need big days. One missed hour, and the whole plan feels broken.",
+      "Third, the fix. Set a floor, not a goal. Mini mode is fifteen minutes: five words, one grammar point, five minutes of listening. It still counts.",
+      "Fourth, miss once, never twice. One missed day is fine. Two in a row is where a habit dies."
+    ],
+    "takeaway": "So bad days do not kill a streak. Skipped days do. I built my forty-five day Japanese habit plan on this.",
+    "cta": "Comment forty-five, and I'll send you the link."
+  },
+  "nodes": [
+    {
+      "title": ["Quit after", "three days?"],
+      "blocks": [
+        { "type": "streak", "n": 45, "cols": 15, "from": 0.8, "to": 5.5, "misses": [3,4,5,6,7,8,9,10,11,12,13,14] },
+        { "type": "rows", "items": [ { "text": "There is a word for it", "icon": "ok", "cue": "one word" }, { "text": "And a way to beat it", "icon": "ok", "cue": "beat it" } ] }
+      ]
+    },
+    {
+      "title": ["The word"],
+      "blocks": [
+        { "type": "jp", "jp": "三日坊主", "reading": "みっかぼうず", "en": "three-day monk", "size": 150, "cue": "みっかぼうず", "readingCue": "みっかぼうず", "enCue": "three day monk" },
+        { "type": "rows", "items": [ { "text": "Gives up after a few days", "icon": "x", "tone": "dim", "cue": "gives up" } ] }
+      ]
+    },
+    {
+      "title": ["The cause"],
+      "blocks": [
+        { "type": "rows", "items": [
+          { "text": "Big plan = big days", "icon": "x", "cue": "big days" },
+          { "text": "One miss = it feels broken", "icon": "x", "tone": "dim", "cue": "broken" }
+        ] },
+        { "type": "big", "text": "60 min", "size": 150, "sub": "every single day is a lot", "h": 280, "cue": "big plans" }
+      ]
+    },
+    {
+      "title": ["The fix:", "a floor"],
+      "blocks": [
+        { "type": "panel", "label": "MINI MODE", "tag": { "text": "15 MIN", "cue": "fifteen minutes" }, "items": [
+          { "type": "rows", "items": [
+            { "text": "5 words", "icon": "ok", "cue": "five words" },
+            { "text": "1 grammar point", "icon": "ok", "cue": "one grammar point" },
+            { "text": "5 min listening", "icon": "ok", "cue": "five minutes of listening" }
+          ] }
+        ] },
+        { "type": "rows", "items": [ { "text": "It still counts", "icon": "ok", "cue": "still counts" } ] }
+      ]
+    },
+    {
+      "title": ["Miss once,", "never twice"],
+      "blocks": [
+        { "type": "streak", "n": 45, "cols": 15, "from": 0.5, "to": 5, "misses": [6] },
+        { "type": "rows", "items": [
+          { "text": "One missed day: fine", "icon": "ok", "cue": "one missed day" },
+          { "text": "Two in a row: habit dies", "icon": "x", "cue": "two in a row" }
+        ] }
+      ]
+    },
+    {
+      "title": ["Skipped days", "kill streaks"],
+      "blocks": [
+        { "type": "big", "text": "45-day plan", "size": 110, "sub": "N4 to N3 to an N2 starter", "h": 220, "cue": "forty five day" },
+        { "type": "cta", "text": "Comment 45", "icon": "bubble", "cue": "comment forty five" }
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "QUIT WORD",
+    "lines": ["三日坊主"],
+    "sub": "The word for quitting in 3 days",
+    "card": { "type": "streak", "n": 45, "cols": 15, "from": 0, "to": 0.01, "misses": [3,4,5,6,7,8,9,10,11,12,13,14] }
+  },
+  "social": {
+    "caption": "Japanese has one word for people who quit after three days: 三日坊主 (mikkabouzu), the three-day monk.\n\nWhy it happens: big plans need big days, and one missed hour makes the whole plan feel broken.\n\nThe fix: set a floor, not a goal. Mini mode is fifteen minutes: five words, one grammar point, five minutes of listening. It still counts. And miss once, never twice.\n\nI built a 45-day Japanese habit plan on this rule: one page a day, N4 to N3 to an N2 starter.\n\nComment 45 and I'll send you the link.",
+    "hashtags": "#LearnJapanese #JapaneseStudy #JLPT #StudyHabits #Japanese"
+  },
+  "meta": { "format": "planner", "pillar": "planner", "shape": "", "angle": "three-day-monk", "cta": "comment45", "refs": "" }
+}
