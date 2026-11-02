@@ -1,0 +1,84 @@
+{
+  "topic": "おつかれさま vs ごくろうさま (who you can say it to)",
+  "tag": "WORK JAPANESE",
+  "closeLabel": "RECAP",
+  "script": {
+    "hook": "Do you know why one work greeting is safe for your boss, and the other can sound rude?",
+    "points": [
+      "First, おつかれさまです. It means, thanks for your hard work. Say it to coworkers, and to your boss. It is the safe choice at work.",
+      "Second, ごくろうさま. It also praises someone's effort. But it sounds like a boss talking down to the team. Use it only toward people below you, if at all.",
+      "Here is the test. Ask yourself, who is listening? Your boss, or you are not sure? Pick the safe one. Only someone below you? The other is possible, but never upward."
+    ],
+    "takeaway": "Remember, never say the second one to your boss.",
+    "cta": "Send this to someone learning Japanese."
+  },
+  "nodes": [
+    {
+      "title": ["Safe or", "rude?"],
+      "blocks": [
+        {"type": "cells", "items": [
+          {"text": "お疲れ様です", "jp": true, "size": 40, "cue": "safe"},
+          {"text": "ご苦労様", "jp": true, "size": 40, "cue": "rude"}
+        ]},
+        {"type": "rows", "items": [
+          {"text": "Same idea, different rank", "icon": "clock", "cue": "work greeting"}
+        ]}
+      ]
+    },
+    {
+      "title": ["Safe:", {"t": "お疲れ様です", "jp": true}],
+      "blocks": [
+        {"type": "jp", "jp": "お疲れ様です", "reading": "otsukaresama desu", "en": "thanks for your hard work", "size": 100, "cue": "おつかれさまです", "enCue": "hard work"},
+        {"type": "rows", "items": [
+          {"text": "To coworkers: OK", "icon": "ok", "cue": "coworkers"},
+          {"text": "To your boss: OK", "icon": "ok", "cue": "boss"}
+        ]}
+      ]
+    },
+    {
+      "title": ["Risky:", {"t": "ご苦労様", "jp": true}],
+      "blocks": [
+        {"type": "jp", "jp": "ご苦労様", "reading": "gokurousama", "en": "good work (from above)", "size": 100, "cue": "ごくろうさま", "enCue": "praises"},
+        {"type": "rows", "items": [
+          {"text": "Boss to team: OK", "icon": "ok", "cue": "talking down"},
+          {"text": "Team to boss: rude", "icon": "x", "cue": "below you"}
+        ]}
+      ]
+    },
+    {
+      "title": ["The test"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "Boss/unsure?", "sub": "お疲れ様です", "icon": "ok", "cue": "boss", "minW": 230},
+          {"text": "Only juniors?", "sub": "ご苦労様 (rare)", "icon": "clock", "cue": "below you", "minW": 230}
+        ]},
+        {"type": "example", "jp": "お疲れ様です、部長。", "en": "Thanks for your hard work, director.", "note": "SAFE UPWARD", "cue": "safe one", "enCue": "safe one", "noteCue": "safe one"}
+      ]
+    },
+    {
+      "title": ["Going up,", "stay safe"],
+      "blocks": [
+        {"type": "pills", "items": [
+          {"text": "Up: お疲れ様です", "jp": true, "size": 34, "cue": "remember"},
+          {"text": "Down: ご苦労様", "jp": true, "size": 34, "cue": "boss", "tone": "outline"}
+        ]},
+        {"type": "cta", "text": "Send this", "icon": "send", "cue": "send"}
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "WORK JAPANESE",
+    "lines": ["Boss-safe", "greeting"],
+    "sub": "お疲れ様です vs ご苦労様",
+    "card": {"type": "cells", "items": [
+      {"text": "お疲れ様です", "jp": true, "size": 40},
+      {"text": "ご苦労様", "jp": true, "size": 40}
+    ]}
+  },
+  "social": {
+    "caption": "Do you know why one Japanese work greeting is safe for your boss, and the other can sound rude?\n\nお疲れ様です (otsukaresama desu) = thanks for your hard work. Safe with coworkers and your boss.\nご苦労様 (gokurousama) = good work, said from above. It can sound like talking down, so keep it for people below you, if at all.\n\nNot sure who is listening? Pick お疲れ様です.\n\nSend this to someone learning Japanese.",
+    "hashtags": "#LearnJapanese #BusinessJapanese #JapaneseLanguage #Keigo #Japanese"
+  },
+  "meta": {"format": "value", "pillar": "politeness-etiquette", "shape": "x-vs-y", "angle": "", "cta": "share", "refs": ""},
+  "sources": ["https://news.allabout.co.jp/articles/o/76775/", "https://precious.jp/articles/-/33529", "https://wasabi-jpn.com/magazine/how-to-speak-japanese/how-to-use-otsukaresama-and-gokurousama-in-japanese/"]
+}
