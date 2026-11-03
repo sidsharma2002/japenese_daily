@@ -1,0 +1,75 @@
+{
+  "topic": "残念 decoded: remain + thought",
+  "tag": "KANJI DECODED",
+  "closeLabel": "RECAP",
+  "script": {
+    "hook": "A friend says they cannot come to your party. What do you say back? Here is the word, and why it works.",
+    "points": [
+      "First, say ざんねんです. It means, that is too bad. Now break it open. The first kanji means remain. The second kanji means thought. So it is a thought that stays with you.",
+      "Second, look at the first kanji alone. It reads, のこる. It means, to remain. Like, one cake remains on the table. One piece is left behind, just like that thought.",
+      "Third, the second kanji shows up again. Say, ねんのため. It means, just in case. Like, just in case, I will write it down. A small thought, to be safe."
+    ],
+    "takeaway": "So remember this. Remain plus thought equals regret. One kanji pair, three useful phrases.",
+    "cta": "Follow for one Japanese tip every day."
+  },
+  "nodes": [
+    {
+      "title": ["What do you", "say back?"],
+      "blocks": [
+        {"type": "example", "jp": "パーティーに\n行けません。", "en": "I cannot come to your party.", "note": "YOUR FRIEND SAYS", "cue": "cannot", "enCue": "cannot", "noteCue": "friend"},
+        {"type": "big", "text": "?", "size": 150, "h": 220, "cue": "say back"}
+      ]
+    },
+    {
+      "title": ["残念です", {"t": "too bad", "grey": true}],
+      "blocks": [
+        {"type": "jp", "jp": "残念です", "reading": "ざんねんです", "en": "That is too bad.", "size": 100, "cue": "ざんねんです", "readingCue": "ざんねんです", "enCue": "too bad"},
+        {"type": "cells", "items": [
+          {"text": "残 = remain", "jp": true, "size": 40, "cue": "remain"},
+          {"text": "念 = thought", "jp": true, "size": 40, "cue": "thought"}
+        ], "h": 120},
+        {"type": "rows", "items": [{"text": "A thought that stays", "icon": "ok", "cue": "stays"}]}
+      ]
+    },
+    {
+      "title": ["残る", {"t": "to remain", "grey": true}],
+      "blocks": [
+        {"type": "jp", "jp": "残る", "reading": "のこる", "en": "to remain", "size": 100, "cue": "のこる", "readingCue": "のこる", "enCue": "remain"},
+        {"type": "example", "jp": "ケーキが一つ\n残っています。", "en": "One cake remains.", "note": "LEFT BEHIND", "size": 46, "cue": "cake", "enCue": "cake", "noteCue": "left"}
+      ]
+    },
+    {
+      "title": ["念のため", {"t": "just in case", "grey": true}],
+      "blocks": [
+        {"type": "jp", "jp": "念のため", "reading": "ねんのため", "en": "just in case", "size": 100, "cue": "ねんのため", "readingCue": "ねんのため", "enCue": "just in case"},
+        {"type": "example", "jp": "念のため、\nメモします。", "en": "Just in case, I will write it down.", "note": "A SMALL THOUGHT", "size": 46, "cue": "write", "enCue": "write", "noteCue": "small"}
+      ]
+    },
+    {
+      "title": ["残 + 念", {"t": "= regret", "grey": true}],
+      "blocks": [
+        {"type": "pills", "items": [
+          {"text": "残 remain", "jp": true, "size": 36, "cue": "remain"},
+          {"text": "念 thought", "jp": true, "size": 36, "cue": "plus"}
+        ]},
+        {"type": "big", "text": "残念", "jp": true, "size": 160, "sub": "too bad", "h": 300, "cue": "regret"},
+        {"type": "cta", "text": "Follow", "icon": "plus", "cue": "follow"}
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "KANJI DECODED",
+    "lines": ["Why 残念", "is too bad"],
+    "sub": "remain + thought",
+    "card": {"type": "cells", "items": [
+      {"text": "残", "jp": true, "size": 60},
+      {"text": "念", "jp": true, "size": 60}
+    ]}
+  },
+  "social": {
+    "caption": "A friend cannot come to your party. Here is the word to say back, and why it works.\n\n残念です (ざんねんです) = that is too bad.\n残 (のこる) = remain\n念 = thought\nA thought that stays with you.\n\n残る (のこる) = to remain: ケーキが一つ残っています。One cake remains.\n念のため (ねんのため) = just in case: 念のため、メモします。Just in case, I will write it down.\n\nFollow for one Japanese tip every day.",
+    "hashtags": "#LearnJapanese #JapaneseKanji #JLPT #JapaneseLanguage #Japanese"
+  },
+  "meta": {"format": "value", "pillar": "kanji-decoded", "shape": "mini-lesson", "angle": "", "cta": "follow", "refs": "csv:kanji:2"},
+  "sources": []
+}
