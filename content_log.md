@@ -9,3 +9,4 @@
 | 2026-11-02 | reel | 3 | planner | planner |  | three-day-monk | 三日坊主 (three-day monk): why you quit and the smaller-floor fix | Japanese has one word for people who quit after three days. Here is how to beat it. | comment45 |  |
 | 2026-11-02 | carousel | 3 | value | politeness-etiquette | x-vs-y |  | おつかれさま vs ごくろうさま (who you can say it to) | One work greeting is safe for your boss, the other can sound rude. お疲れ様 vs ご苦労様 | share | deepen:reel2 |
 | 2026-11-02 | reel | 4 | value | vocab-clusters | myth-bust |  | Three myths about plan words: 予約, 計画 vs 予定, 続く vs 続ける | Three myths about Japanese words for plans, promises and habits. Let's bust them. | share | csv:words:1 |
+| 2026-11-03 | carousel | 4 | value | vocab-clusters | myth-bust |  | Three myths about plan words: 予約, 計画 vs 予定, 続く vs 続ける | Three myths about Japanese words for plans, promises and habits. Busted. | follow | csv:words:1 deepen:reel4 |

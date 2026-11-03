@@ -1,0 +1,275 @@
+{
+ "topic": "Three myths about plan words: 予約, 計画 vs 予定, 続く vs 続ける",
+ "slides": [
+  {
+   "kind": "cover",
+   "label": "3 MYTHS",
+   "title": [
+    "Plan words",
+    "you mix up"
+   ],
+   "sub": "Booking, promise, plan, schedule",
+   "blocks": [
+    {
+     "type": "cells",
+     "items": [
+      {
+       "text": "予約",
+       "jp": true,
+       "size": 48
+      },
+      {
+       "text": "約束",
+       "jp": true,
+       "size": 48
+      },
+      {
+       "text": "予定",
+       "jp": true,
+       "size": 48
+      }
+     ]
+    },
+    {
+     "type": "cells",
+     "items": [
+      {
+       "text": "計画",
+       "jp": true,
+       "size": 48
+      },
+      {
+       "text": "続く",
+       "jp": true,
+       "size": 48
+      },
+      {
+       "text": "続ける",
+       "jp": true,
+       "size": 48
+      }
+     ]
+    }
+   ],
+   "hook": "Three myths about Japanese words for plans, promises and habits. Busted."
+  },
+  {
+   "label": "MYTH 1",
+   "title": [
+    {
+     "t": "予約",
+     "jp": true
+    },
+    {
+     "t": "is not a promise",
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "予約 = promise",
+       "jp": true,
+       "icon": "x",
+       "strike": true,
+       "minW": 300
+      },
+      {
+       "text": "予約 = booking",
+       "jp": true,
+       "icon": "ok",
+       "sub": "a seat or room",
+       "minW": 300
+      }
+     ]
+    },
+    {
+     "type": "example",
+     "jp": "レストランを予約しました。",
+     "en": "I booked a restaurant.",
+     "note": "A BOOKING"
+    }
+   ]
+  },
+  {
+   "label": "THE FIX",
+   "title": [
+    {
+     "t": "約束",
+     "jp": true
+    },
+    {
+     "t": "= promise",
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "約束を守ります。",
+     "en": "I keep my promise.",
+     "note": "A PROMISE TO A PERSON"
+    },
+    {
+     "type": "example",
+     "jp": "友達と約束があります。",
+     "en": "I have plans (an arrangement) with a friend.",
+     "note": "ALSO AN ARRANGEMENT"
+    }
+   ]
+  },
+  {
+   "label": "MYTH 2",
+   "title": [
+    {
+     "t": "計画",
+     "jp": true
+    },
+    {
+     "t": "is not 予定",
+     "jp": true,
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "明日は予定があります。",
+     "en": "I have plans tomorrow.",
+     "note": "予定: FIXED"
+    },
+    {
+     "type": "example",
+     "jp": "旅行の計画を立てました。",
+     "en": "I made a plan for the trip.",
+     "note": "計画: BUILT"
+    }
+   ],
+   "sub": "予定 = fixed, 計画 = built"
+  },
+  {
+   "label": "THE TEST",
+   "title": [
+    "Fixed or",
+    "still a draft?"
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "On my calendar",
+       "icon": "ok",
+       "sub": "予定",
+       "minW": 300
+      },
+      {
+       "text": "Still drafting",
+       "icon": "ok",
+       "sub": "計画",
+       "minW": 300
+      }
+     ]
+    },
+    {
+     "type": "example",
+     "jp": "来週、東京へ行く予定です。",
+     "en": "I plan to go to Tokyo next week.",
+     "note": "V + 予定です = scheduled to"
+    }
+   ]
+  },
+  {
+   "label": "MYTH 3",
+   "title": [
+    {
+     "t": "続く",
+     "jp": true
+    },
+    {
+     "t": "is not 続ける",
+     "jp": true,
+     "grey": true
+    }
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "雨が続いています。",
+     "en": "The rain keeps going.",
+     "note": "続く: HAPPENS BY ITSELF"
+    },
+    {
+     "type": "example",
+     "jp": "毎日、勉強を続けています。",
+     "en": "I keep studying every day.",
+     "note": "続ける: YOU KEEP IT GOING"
+    }
+   ]
+  },
+  {
+   "label": "QUIZ",
+   "title": [
+    "Pick the",
+    "right one"
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "雨が ___",
+       "jp": true,
+       "sub": "続く or 続ける?  Answer: 続く",
+       "minW": 160,
+       "subSize": 30
+      },
+      {
+       "text": "勉強を ___",
+       "jp": true,
+       "sub": "続く or 続ける?  Answer: 続ける",
+       "minW": 160,
+       "subSize": 30
+      }
+     ]
+    },
+    {
+     "type": "big",
+     "text": "を = you act on it",
+     "jp": true,
+     "size": 70,
+     "h": 200
+    }
+   ]
+  },
+  {
+   "kind": "cta",
+   "title": [
+    "Follow for",
+    "daily Japanese"
+   ],
+   "blocks": [
+    {
+     "type": "cta",
+     "text": "Follow",
+     "icon": "plus"
+    }
+   ]
+  }
+ ],
+ "social": {
+  "caption": "Three myths about Japanese words for plans, promises and habits. Busted.\n\nMyth 1: 予約 (よやく) is a promise. No, it is a reservation. A promise to a person is 約束 (やくそく).\n\nMyth 2: 計画 (けいかく) and 予定 (よてい) are the same. 予定 is what is already on your schedule. 計画 is a plan you build.\n\nMyth 3: 続く (つづく) and 続ける (つづける) are the same. 続く happens by itself, like rain. 続ける is you keeping it going, like studying every day.\n\nA booking is not a promise, and a schedule is not a plan.\n\nFollow for one Japanese tip every day.",
+  "hashtags": "#LearnJapanese #JapaneseVocabulary #JapaneseLanguage #JLPT #Japanese"
+ },
+ "meta": {
+  "format": "value",
+  "pillar": "vocab-clusters",
+  "shape": "myth-bust",
+  "angle": "",
+  "cta": "follow",
+  "refs": "csv:words:1 deepen:reel4"
+ },
+ "sources": []
+}
