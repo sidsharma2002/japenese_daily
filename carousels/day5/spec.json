@@ -1,0 +1,15 @@
+{
+  "topic": "Fifteen-minute floor: mini mode keeps the habit alive",
+  "slides": [
+    {"kind":"cover","label":"BAD DAY?","title":["Do you know","the 15-minute","floor?"],"sub":"A tiny day still counts","blocks":[{"type":"big","text":"15 min","size":130,"sub":"5 words, 1 grammar, 5 min listening","h":260}],"hook":"Do you know why a 15-minute day still counts? Five words, one grammar point, five minutes of listening."},
+    {"label":"THE IDEA","title":["Set a floor,","not just","a goal"],"blocks":[{"type":"rows","items":[{"text":"Goal: 60 minutes","icon":"clock","tone":"soft"},{"text":"Floor: 15 minutes","icon":"ok"},{"text":"Floor done = day done","icon":"ok"}]}]},
+    {"label":"MINI MODE","title":["What goes in","15 minutes"],"blocks":[{"type":"panel","label":"15 MINUTES","items":[{"type":"rows","items":[{"text":"5 words","icon":"ok"},{"text":"1 grammar point","icon":"ok"},{"text":"5 min listening","icon":"ok"}]}]}]},
+    {"label":"5 WORDS","title":["Day 1 words","(a taste)"],"blocks":[{"type":"rows","items":[{"text":"予定","jp":true,"sub":"よてい - schedule","icon":"ok"},{"text":"予約","jp":true,"sub":"よやく - reservation","icon":"ok"},{"text":"約束","jp":true,"sub":"やくそく - promise","icon":"ok"},{"text":"決める","jp":true,"sub":"きめる - decide","icon":"ok"},{"text":"続ける","jp":true,"sub":"つづける - keep doing","icon":"ok"}]}]},
+    {"label":"1 GRAMMAR POINT","title":["ようにする"],"sub":"keep trying","blocks":[{"type":"example","jp":"毎日、日本語を\n聞くようにしています。","en":"I make a point of listening to Japanese every day.","note":"ようにする = keep trying","size":56},{"type":"example","jp":"今日から毎朝三十分\n勉強することにしました。","en":"I decided to study 30 min every morning.","note":"ことにする = a decision","size":50}]},
+    {"label":"WHY IT WORKS","title":["A small day","keeps the","streak alive"],"blocks":[{"type":"rows","items":[{"text":"Skip the day","icon":"x","tone":"dim","strike":true},{"text":"Do the floor","icon":"ok"}]},{"type":"big","text":"Miss once, never twice","size":70,"h":200}]},
+    {"kind":"cta","title":["Want the","full plan?"],"blocks":[{"type":"cta","text":"Comment 45","icon":"bubble"}]}
+  ],
+  "social":{"caption":"Do you know why a 15-minute day still counts? Set a floor, not just a goal.\n\nMini mode: five words, one grammar point, five minutes of listening. The box still gets ticked and the streak stays alive.\n\nDay 1 taste:\n予定 (よてい) = schedule\n予約 (よやく) = reservation\n約束 (やくそく) = promise\n決める (きめる) = decide\n続ける (つづける) = keep doing\n\nGrammar: ようにする = keep trying. ことにする = a decision.\n\nComment 45 and I'll send you the link.","hashtags":"#LearnJapanese #JapaneseStudy #JLPT #StudyHabits #Japanese"},
+  "meta":{"format":"planner","pillar":"planner","shape":"","angle":"fifteen-minute-floor","cta":"comment45","refs":"csv:words:1 csv:grammar:1"},
+  "sources":[]
+}

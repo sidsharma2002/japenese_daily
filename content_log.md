@@ -11,3 +11,4 @@
 | 2026-11-02 | reel | 4 | value | vocab-clusters | myth-bust |  | Three myths about plan words: 予約, 計画 vs 予定, 続く vs 続ける | Three myths about Japanese words for plans, promises and habits. Let's bust them. | share | csv:words:1 |
 | 2026-11-03 | carousel | 4 | value | vocab-clusters | myth-bust |  | Three myths about plan words: 予約, 計画 vs 予定, 続く vs 続ける | Three myths about Japanese words for plans, promises and habits. Busted. | follow | csv:words:1 deepen:reel4 |
 | 2026-11-03 | reel | 5 | value | kanji-decoded | mini-lesson |  | 残念 decoded: remain + thought | A friend says they cannot come to your party. What do you say back? Here is the word, and why it works. | follow | csv:kanji:2 |
+| 2026-11-04 | carousel | 5 | planner | planner |  | fifteen-minute-floor | Fifteen-minute floor: mini mode keeps the habit alive | Do you know why a 15-minute day still counts? Five words, one grammar point, five minutes of listening. | comment45 | csv:words:1 csv:grammar:1 |
