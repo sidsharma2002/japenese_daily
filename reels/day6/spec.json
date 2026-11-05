@@ -1,0 +1,71 @@
+{
+  "topic": "Never answer an offer with いいです",
+  "tag": "NEVER SAY",
+  "style": "Calm and direct, like a friend correcting you kindly. Slow on the Japanese.",
+  "script": {
+    "hook": "Someone offers you tea, and you say, いいです. They may hear, no thank you.",
+    "points": [
+      "Here is the slip. A host holds out a cup, and you say, いいです, thinking, that sounds good. You meant yes.",
+      "But after an offer, いいです can also read as, I am fine, no need. The host smiles and puts the cup down.",
+      "The fix is simple. Say, はい、おねがいします, which is, yes please. Or say, いただきます, I will gladly have it. One exception. If someone asks, いいですか, is this okay, then いいです really is yes."
+    ],
+    "takeaway": "So when it is an offer, say yes with real words, not with いいです.",
+    "cta": "Save this, you will want it later."
+  },
+  "nodes": [
+    {
+      "title": ["Yes or no?"],
+      "blocks": [
+        {"type": "big", "text": "いいです", "jp": true, "size": 150, "sub": "offer: tea?", "cue": "say"},
+        {"type": "rows", "items": [{"text": "They may hear: no thanks", "icon": "x", "cue": "hear"}]}
+      ]
+    },
+    {
+      "title": ["The slip"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "You meant: yes", "icon": "ok", "cue": "yes"},
+          {"text": "Host: offer", "sub": "お茶、どうぞ", "icon": "clock", "cue": "host"}
+        ]},
+        {"type": "example", "jp": "お茶、どうですか。\nいいです。", "en": "Tea? - Fine. (yes or no?)", "note": "UNCLEAR", "cue": "slip", "enCue": "sounds good", "noteCue": "meant yes"}
+      ]
+    },
+    {
+      "title": ["What they hear"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "I am fine, no need", "icon": "x", "cue": "fine"},
+          {"text": "Cup goes down", "icon": "x", "cue": "puts"}
+        ]},
+        {"type": "jp", "jp": "いいです", "reading": "ii desu", "en": "good, or no thanks", "cue": "read"}
+      ]
+    },
+    {
+      "title": ["The fix"],
+      "blocks": [
+        {"type": "example", "jp": "はい、お願いします。", "en": "Yes, please.", "note": "CLEAR YES", "cue": "yes please", "enCue": "yes please", "noteCue": "simple"},
+        {"type": "example", "jp": "いただきます。", "en": "I will gladly have it.", "note": "ACCEPTING", "cue": "gladly", "enCue": "gladly", "noteCue": "gladly"},
+        {"type": "rows", "items": [{"text": "いいですか → いいです = yes", "jp": true, "icon": "ok", "cue": "exception"}]}
+      ]
+    },
+    {
+      "title": ["Say yes", "in words"],
+      "blocks": [
+        {"type": "pills", "items": [{"text": "お願いします", "jp": true, "size": 36, "cue": "real"}, {"text": "いただきます", "jp": true, "size": 36, "cue": "words"}]},
+        {"type": "cta", "text": "Save this", "icon": "bookmark", "cue": "save"}
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "NEVER SAY",
+    "lines": ["Yes or", "no?"],
+    "sub": "いいです after an offer",
+    "card": {"type": "cells", "items": [{"text": "いいです", "jp": true, "size": 56}]}
+  },
+  "social": {
+    "caption": "Someone offers you something, you say いいです, and they may hear no thank you.\n\nいいです (ii desu) after an offer can read as good, or as I am fine without it.\n\nSay yes clearly:\nはい、お願いします (hai, onegai shimasu) = yes, please.\nいただきます (itadakimasu) = I will gladly have it.\n\nOne exception: if someone asks いいですか (is this okay?), いいです really is yes.\n\nSave this, you will want it later.",
+    "hashtags": "#LearnJapanese #JapaneseTips #JapanesePhrases #JapaneseManners #JapaneseConversation"
+  },
+  "meta": {"format": "value", "pillar": "never-say", "shape": "teardown", "angle": "", "cta": "save", "refs": ""},
+  "sources": ["https://www.tkgje.jp/entries/00000/00118_ii.html", "https://www.alexrockinjapanese.com/ii-means-good-in-japanese-%e3%81%84%e3%81%84/"]
+}
