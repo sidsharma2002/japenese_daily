@@ -1,0 +1,194 @@
+{
+  "topic": "検討します often means no",
+  "slides": [
+    {
+      "kind": "cover",
+      "label": "REALLY MEANS",
+      "title": [
+        "Maybe",
+        "or no?"
+      ],
+      "sub": "One polite business word",
+      "blocks": [
+        {
+          "type": "big",
+          "text": "検討します",
+          "jp": true,
+          "size": 120,
+          "sub": "Sounds like: maybe",
+          "h": 280
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Often means: no",
+              "icon": "x"
+            }
+          ]
+        }
+      ],
+      "hook": "Sounds like a maybe. Often means no. One polite business word, and what to do next."
+    },
+    {
+      "label": "THE SLIP",
+      "title": [
+        "You pitch",
+        "an idea"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "検討します。",
+          "en": "Client: We will consider it.",
+          "note": "CLIENT"
+        },
+        {
+          "type": "example",
+          "jp": "よかった！いつ始めますか。",
+          "en": "You: Great! When do we start?",
+          "note": "YOU, HEARING YES"
+        }
+      ]
+    },
+    {
+      "label": "WHAT THEY HEAR",
+      "title": [
+        "Two meanings,",
+        "one word"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "You hear",
+              "sub": "They are interested",
+              "icon": "ok",
+              "minW": 300
+            },
+            {
+              "text": "Often meant",
+              "sub": "A gentle no",
+              "icon": "x",
+              "minW": 300
+            },
+            {
+              "text": "Why",
+              "sub": "Nobody loses face",
+              "icon": "clock",
+              "minW": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "THE REPLAY",
+      "title": [
+        "Say this",
+        "instead"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "検討します。",
+          "en": "Client: We will consider it.",
+          "note": "CLIENT"
+        },
+        {
+          "type": "example",
+          "jp": "ありがとうございます。\nいつごろお返事を\nいただけますか。",
+          "en": "You: Thank you. When can I hear back?",
+          "note": "YOU, ASKING POLITELY"
+        }
+      ]
+    },
+    {
+      "label": "A REAL MAYBE",
+      "title": [
+        "It comes with",
+        "a date"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "検討して、金曜日までに\nお返事します。",
+          "en": "I will think it over and reply by Friday.",
+          "note": "REAL THINKING"
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "A date",
+              "icon": "ok",
+              "sub": "likely a real maybe",
+              "minW": 300
+            },
+            {
+              "text": "Silence",
+              "icon": "x",
+              "sub": "likely a polite no",
+              "minW": 300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "QUICK QUIZ",
+      "title": [
+        "Which one is",
+        "a real maybe?"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "A. 検討します。",
+          "en": "Just that, then silence",
+          "note": "A"
+        },
+        {
+          "type": "example",
+          "jp": "B. 検討して、金曜日まで\nにお返事します。",
+          "en": "Answer: B. It has a date.",
+          "note": "B"
+        }
+      ]
+    },
+    {
+      "kind": "cta",
+      "title": [
+        "Send this",
+        "along"
+      ],
+      "blocks": [
+        {
+          "type": "cta",
+          "text": "Send this along",
+          "icon": "send"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "caption": "A polite maybe that is often a quiet no, and how to tell the difference.\n\n検討します (けんとうします) = we will consider it. Often a gentle way to decline, though sometimes it is real thinking.\n\nReal maybe: 検討して、金曜日までにお返事します。 = I will think it over and reply by Friday.\n\nNo date after it? Ask: いつごろお返事をいただけますか。 = When can I hear back?\n\nSend this to someone learning Japanese.",
+    "hashtags": "#LearnJapanese #JapaneseTips #JapaneseBusiness #JapaneseCulture #JapanesePhrases"
+  },
+  "meta": {
+    "format": "value",
+    "pillar": "really-means",
+    "shape": "dialogue",
+    "angle": "",
+    "cta": "share",
+    "refs": "deepen:reel7"
+  },
+  "sources": [
+    "https://www.daijob.com/en/guide/skill-up/saying-no-in-japan-how-to-decline-soemthing-respectfully",
+    "https://wasabi-jpn.com/magazine/23/japanese-tatema-and-honne-3/",
+    "https://www.tkgje.jp/entries/17000/17455_kentousuru.html"
+  ],
+  "tag": "REALLY MEANS",
+  "style": "Light and natural, like telling a short story. Slow and clear on the Japanese."
+}
