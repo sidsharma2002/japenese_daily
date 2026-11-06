@@ -1,0 +1,208 @@
+{
+  "topic": "検討します often means no",
+  "tag": "REALLY MEANS",
+  "style": "Light and natural, like telling a short story. Slow and clear on the Japanese.",
+  "closeLabel": "TRY THIS",
+  "script": {
+    "hook": "Sounds like a maybe. Often means no. One polite business word, and what to do next.",
+    "points": [
+      "Picture a meeting. You pitch your idea, and the client says, けんとうします. That is, we will consider it.",
+      "You hear, they are interested. But often, it is a gentle way to say no. Nobody loses face. Sometimes, though, they really do think it over.",
+      "Watch what comes next. A real maybe has a date or a question. For example, けんとうして、きんようびまでにおへんじします. In English, I will think it over and reply by Friday."
+    ],
+    "takeaway": "If you hear nothing more, ask in a friendly way, いつごろおへんじをいただけますか. When can I hear back ?",
+    "cta": "Send this to your study partner."
+  },
+  "nodes": [
+    {
+      "title": [
+        "Maybe",
+        "or no?"
+      ],
+      "blocks": [
+        {
+          "type": "big",
+          "text": "検討します",
+          "jp": true,
+          "size": 130,
+          "sub": "Sounds like: maybe",
+          "cue": "maybe"
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Often means: no",
+              "icon": "x",
+              "cue": "means no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "The",
+        "meeting"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "You: pitch an idea",
+              "icon": "ok",
+              "cue": "pitch"
+            },
+            {
+              "text": "Client says:",
+              "icon": "clock",
+              "cue": "client says"
+            }
+          ]
+        },
+        {
+          "type": "jp",
+          "jp": "検討します",
+          "reading": "けんとうします",
+          "en": "We will consider it",
+          "size": 110,
+          "cue": "けんとうします",
+          "enCue": "consider"
+        }
+      ]
+    },
+    {
+      "title": [
+        "What they",
+        "really mean"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "You hear: interested",
+              "icon": "ok",
+              "cue": "interested"
+            },
+            {
+              "text": "Often: a gentle no",
+              "icon": "x",
+              "cue": "gentle way"
+            },
+            {
+              "text": "Sometimes: real thinking",
+              "icon": "clock",
+              "cue": "think it over"
+            }
+          ]
+        },
+        {
+          "type": "pills",
+          "items": [
+            {
+              "text": "No one loses face",
+              "tone": "ink",
+              "cue": "loses face"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "A real",
+        "maybe"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "A date",
+              "icon": "ok",
+              "cue": "date"
+            },
+            {
+              "text": "Or a question",
+              "icon": "ok",
+              "cue": "question"
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "jp": "検討して、金曜日までに\nお返事します。",
+          "en": "I will think it over and reply by Friday.",
+          "note": "A REAL MAYBE",
+          "cue": "for example",
+          "enCue": "English",
+          "noteCue": "reply"
+        }
+      ]
+    },
+    {
+      "title": [
+        "Ask for",
+        "a date"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "いつごろお返事を\nいただけますか。",
+          "en": "When can I hear back?",
+          "note": "ASK, DO NOT GUESS",
+          "cue": "ask",
+          "enCue": "hear back",
+          "noteCue": "ask"
+        },
+        {
+          "type": "cta",
+          "text": "Send this",
+          "icon": "send",
+          "cue": "send"
+        }
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "REALLY MEANS",
+    "lines": [
+      "Maybe",
+      "or no?"
+    ],
+    "sub": "検討します",
+    "card": {
+      "type": "cells",
+      "items": [
+        {
+          "text": "検討します",
+          "jp": true,
+          "size": 44
+        },
+        {
+          "text": "= maybe?",
+          "size": 44
+        }
+      ]
+    }
+  },
+  "social": {
+    "caption": "A polite maybe that is often a quiet no, and how to tell the difference.\n\n検討します (けんとうします) = we will consider it. Often a gentle way to decline, though sometimes it is real thinking.\n\nA real maybe comes with a date or a question: 検討して、金曜日までにお返事します。 = I will think it over and reply by Friday.\n\nNothing more after it? Ask: いつごろお返事をいただけますか。 = When can I hear back?\n\nSend this to your study partner.",
+    "hashtags": "#JapaneseTips #LanguageLearning #JapaneseBusiness #JapaneseCulture #JapanesePhrases"
+  },
+  "meta": {
+    "format": "value",
+    "pillar": "really-means",
+    "shape": "dialogue",
+    "angle": "",
+    "cta": "share",
+    "refs": ""
+  },
+  "sources": [
+    "https://www.daijob.com/en/guide/skill-up/saying-no-in-japan-how-to-decline-soemthing-respectfully",
+    "https://wasabi-jpn.com/magazine/23/japanese-tatema-and-honne-3/",
+    "https://www.tkgje.jp/entries/17000/17455_kentousuru.html"
+  ]
+}

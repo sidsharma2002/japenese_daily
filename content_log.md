@@ -13,3 +13,4 @@
 | 2026-11-03 | reel | 5 | value | kanji-decoded | mini-lesson |  | 残念 decoded: remain + thought | A friend says they cannot come to your party. What do you say back? Here is the word, and why it works. | follow | csv:kanji:2 |
 | 2026-11-04 | carousel | 5 | planner | planner |  | fifteen-minute-floor | Fifteen-minute floor: mini mode keeps the habit alive | Do you know why a 15-minute day still counts? Five words, one grammar point, five minutes of listening. | comment45 | csv:words:1 csv:grammar:1 |
 | 2026-11-05 | reel | 6 | value | never-say | teardown |  | Never answer an offer with いいです | Someone offers you tea, and you say, いいです. They may hear, no thank you. | save |  |
+| 2026-11-06 | reel | 7 | value | really-means | dialogue |  | 検討します often means no | Sounds like a maybe. Often means no. One polite business word, and what to do next. | share |  |
