@@ -1,0 +1,244 @@
+{
+  "topic": "クレーム is a complaint, not a claim",
+  "slides": [
+    {
+      "kind": "cover",
+      "label": "FAKE ENGLISH",
+      "title": [
+        "Not a",
+        "claim"
+      ],
+      "sub": "One katakana word, one big twist",
+      "blocks": [
+        {
+          "type": "big",
+          "text": "クレーム",
+          "jp": true,
+          "size": 130,
+          "sub": "Looks like: claim",
+          "h": 280
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Really means: complaint",
+              "icon": "x"
+            }
+          ]
+        }
+      ],
+      "hook": "This English looking word does not mean what you think. In Japan, it means complaint."
+    },
+    {
+      "label": "TAKE IT APART",
+      "title": [
+        "Same sound,",
+        "new meaning"
+      ],
+      "blocks": [
+        {
+          "type": "pills",
+          "items": [
+            {
+              "text": "claim",
+              "tone": "outline",
+              "size": 44
+            },
+            {
+              "text": "クレーム",
+              "jp": true,
+              "tone": "ink",
+              "size": 44
+            }
+          ]
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "English",
+              "sub": "claim = a demand",
+              "icon": "ok",
+              "minW": 200
+            },
+            {
+              "text": "Japanese",
+              "sub": "クレーム = complaint",
+              "icon": "x",
+              "minW": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "AT THE COUNTER",
+      "title": [
+        "Hear it",
+        "in a shop"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Staff tells the manager",
+              "icon": "clock"
+            }
+          ]
+        },
+        {
+          "type": "example",
+          "jp": "お客様から、\nクレームが来ました。",
+          "en": "We got a complaint from a customer.",
+          "note": "A COMPLAINT CAME IN"
+        }
+      ]
+    },
+    {
+      "label": "SAY IT",
+      "title": [
+        "Make a",
+        "complaint"
+      ],
+      "blocks": [
+        {
+          "type": "jp",
+          "jp": "クレームをつける",
+          "reading": "くれーむをつける",
+          "en": "To make a complaint",
+          "size": 90
+        },
+        {
+          "type": "jp",
+          "jp": "クレームに対応する",
+          "reading": "くれーむにたいおうする",
+          "en": "To handle a complaint",
+          "size": 70
+        }
+      ]
+    },
+    {
+      "label": "FORMAL SIDE",
+      "title": [
+        "A more formal",
+        "word"
+      ],
+      "blocks": [
+        {
+          "type": "big",
+          "text": "苦情",
+          "jp": true,
+          "size": 150,
+          "sub": "くじょう = complaint",
+          "h": 280
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "クレーマー",
+              "jp": true,
+              "sub": "heavy complainer",
+              "icon": "ok",
+              "minW": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "THE CATCH",
+      "title": [
+        "Where claim",
+        "still lives"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Trade",
+              "sub": "a claim for damages",
+              "icon": "ok",
+              "minW": 200,
+              "subSize": 30
+            },
+            {
+              "text": "Insurance",
+              "sub": "保険金を請求する",
+              "icon": "ok",
+              "minW": 200,
+              "subSize": 30
+            },
+            {
+              "text": "Shop talk",
+              "sub": "complaint",
+              "icon": "x",
+              "minW": 200,
+              "subSize": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "MINI QUIZ",
+      "title": [
+        "Good news",
+        "or bad?"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "クレームが来ました。",
+          "en": "A complaint came in.",
+          "note": "THE ANSWER"
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Bad news, not a claim",
+              "icon": "x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "cta",
+      "title": [
+        "Daily tips",
+        "like this?"
+      ],
+      "blocks": [
+        {
+          "type": "cta",
+          "text": "Follow for more",
+          "icon": "plus"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "caption": "This looks like the English word claim, but in Japan it usually means a complaint.\n\nクレーム (くれーむ) = a complaint.\nお客様からクレームが来ました。 = We got a complaint from a customer.\nクレームをつける = to make a complaint.\n苦情 (くじょう) = a more formal word for complaint.\n\nFollow for daily Japanese you can actually use.",
+    "hashtags": "#LearnJapanese #JapaneseTips #KatakanaWords #FakeEnglish #JapaneseVocabulary"
+  },
+  "meta": {
+    "format": "value",
+    "pillar": "fake-english",
+    "shape": "decode",
+    "angle": "",
+    "cta": "follow",
+    "refs": "deepen:reel8"
+  },
+  "sources": [
+    "https://kotobank.jp/word/クレーム",
+    "https://www.tkgje.jp/entries/27000/27399_kureemu.html",
+    "https://www.weblio.jp/content/Complaint"
+  ],
+  "tag": "FAKE ENGLISH",
+  "style": "Curious and bright, like discovering something together. Slow and clear on the Japanese."
+}
