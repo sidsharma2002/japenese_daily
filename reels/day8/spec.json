@@ -1,0 +1,75 @@
+{
+  "topic": "クレーム is a complaint, not a claim",
+  "tag": "FAKE ENGLISH",
+  "style": "Curious and bright, like discovering something together. Slow and clear on the Japanese.",
+  "closeLabel": "SAY IT",
+  "script": {
+    "hook": "This English-looking word does not mean what you think. In Japan, it means complaint.",
+    "points": [
+      "Picture a shop counter. A staff member tells the manager, おきゃくさまから、くれーむがきました. That is, we got a complaint from a customer.",
+      "The word comes from English claim. But in English, a claim is a demand, or a statement that something is true, like an insurance claim. Japanese kept the sound, and the meaning moved.",
+      "Here is the trap. Say it to an English speaker, and they will not hear complaint. To complain in Japanese, say くれーむをつけます. That is, to lodge a complaint. There is also くじょう, a more formal word for complaint."
+    ],
+    "takeaway": "Say it out loud, くれーむ. Complaint, never claim."
+  },
+  "nodes": [
+    {
+      "title": ["Not a", "claim"],
+      "blocks": [
+        {"type": "big", "text": "クレーム", "jp": true, "size": 130, "sub": "Looks like: claim", "cue": "English-looking"},
+        {"type": "rows", "items": [{"text": "Really means: complaint", "icon": "x", "cue": "complaint"}]}
+      ]
+    },
+    {
+      "title": ["At the", "counter"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "Staff tells the manager", "icon": "clock", "cue": "staff member"}
+        ]},
+        {"type": "example", "jp": "お客様から、\nクレームが来ました。", "en": "We got a complaint from a customer.", "note": "COMPLAINT", "cue": "おきゃくさまから", "enCue": "complaint", "noteCue": "customer"}
+      ]
+    },
+    {
+      "title": ["Where it", "came from"],
+      "blocks": [
+        {"type": "rows", "items": [
+          {"text": "English claim: a demand", "icon": "ok", "cue": "demand"},
+          {"text": "Japanese: a complaint", "icon": "ok", "cue": "meaning moved"}
+        ]},
+        {"type": "pills", "items": [
+          {"text": "claim", "tone": "outline", "size": 40, "cue": "claim"},
+          {"text": "クレーム", "jp": true, "tone": "ink", "size": 40, "cue": "sound"}
+        ]}
+      ]
+    },
+    {
+      "title": ["The", "trap"],
+      "blocks": [
+        {"type": "jp", "jp": "クレームをつける", "reading": "くれーむをつける", "en": "To lodge a complaint", "size": 90, "cue": "くれーむをつけます", "enCue": "lodge"},
+        {"type": "rows", "items": [
+          {"text": "More formal", "sub": "苦情 くじょう", "icon": "ok", "cue": "formal", "minW": 230}
+        ]}
+      ]
+    },
+    {
+      "title": ["Complaint,", "never claim"],
+      "blocks": [
+        {"type": "pills", "items": [
+          {"text": "クレーム = complaint", "jp": true, "size": 36, "cue": "out loud"}
+        ]}
+      ]
+    }
+  ],
+  "cover": {
+    "tag": "FAKE ENGLISH",
+    "lines": ["Not a", "claim"],
+    "sub": "クレーム is a complaint",
+    "card": {"type": "cells", "items": [{"text": "クレーム", "jp": true, "size": 44}, {"text": "complaint", "size": 40}]}
+  },
+  "social": {
+    "caption": "This looks like the English word claim, but in Japan it means something else: a complaint.\n\nクレーム (くれーむ) = a complaint.\nお客様からクレームが来ました。 = We got a complaint from a customer.\nクレームをつける = to lodge a complaint.\n苦情 (くじょう) = a more formal word for complaint.\n\nThe word comes from English claim, but Japanese kept the sound and the meaning moved.",
+    "hashtags": "#LearnJapanese #JapaneseTips #KatakanaWords #FakeEnglish #JapaneseVocabulary"
+  },
+  "meta": {"format": "value", "pillar": "fake-english", "shape": "decode", "angle": "", "cta": "none", "refs": ""},
+  "sources": ["https://www.weblio.jp/content/Complaint", "https://englishhub.jp/news/japanese-english-2.html"]
+}
