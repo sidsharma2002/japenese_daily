@@ -1,0 +1,227 @@
+{
+  "topic": "Never answer an offer with いいです",
+  "slides": [
+    {
+      "kind": "cover",
+      "label": "NEVER SAY",
+      "title": [
+        "Offered tea?",
+        "Not いいです"
+      ],
+      "sub": "Yes or no? Your host cannot tell",
+      "blocks": [
+        {
+          "type": "big",
+          "text": "いいです",
+          "jp": true,
+          "size": 150,
+          "sub": "after an offer = yes OR no thanks",
+          "h": 300
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Say yes or no with clearer words",
+              "icon": "ok"
+            }
+          ]
+        }
+      ],
+      "hook": "Offered tea? Never reply with いいです. Your host may not know if that is yes or no."
+    },
+    {
+      "label": "THE SLIP",
+      "title": [
+        "A host holds",
+        "out a cup"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "お茶はいかがですか。",
+          "en": "Would you like some tea?",
+          "note": "THE OFFER",
+          "size": 56
+        },
+        {
+          "type": "example",
+          "jp": "いいです。",
+          "en": "Good? Or no thanks?",
+          "note": "YOUR ANSWER",
+          "size": 70
+        }
+      ]
+    },
+    {
+      "label": "THE PROBLEM",
+      "title": [
+        "Yes and no",
+        "in one word"
+      ],
+      "blocks": [
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Yes",
+              "sub": "that sounds good",
+              "icon": "ok",
+              "minW": 250
+            },
+            {
+              "text": "No thanks",
+              "sub": "I am fine without it",
+              "icon": "x",
+              "minW": 250
+            }
+          ]
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "Tone and context decide",
+              "icon": "clock",
+              "tone": "dim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "SAY THIS FOR YES",
+      "title": [
+        "Want the tea?",
+        "Say it clearly"
+      ],
+      "blocks": [
+        {
+          "type": "jp",
+          "jp": "はい、お願いします。",
+          "reading": "はい、おねがいします",
+          "en": "Yes, please.",
+          "size": 80
+        },
+        {
+          "type": "jp",
+          "jp": "いただきます。",
+          "reading": "いただきます",
+          "en": "I will gladly have it.",
+          "size": 80
+        }
+      ]
+    },
+    {
+      "label": "SAY THIS FOR NO",
+      "title": [
+        "Want to pass?",
+        "Be kind and clear"
+      ],
+      "blocks": [
+        {
+          "type": "jp",
+          "jp": "ありがとうございます。",
+          "reading": "ありがとうございます",
+          "en": "Thank you.",
+          "size": 70
+        },
+        {
+          "type": "jp",
+          "jp": "遠慮させていただきます。",
+          "reading": "えんりょさせていただきます",
+          "en": "I will politely pass.",
+          "size": 64
+        }
+      ]
+    },
+    {
+      "label": "THE EXCEPTION",
+      "title": [
+        "When いいです",
+        "really is yes"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "ここに座っても\nいいですか。",
+          "en": "May I sit here?",
+          "note": "THEY ASK FOR PERMISSION",
+          "size": 56
+        },
+        {
+          "type": "example",
+          "jp": "はい、いいですよ。",
+          "en": "Yes, that is fine.",
+          "note": "NOW IT IS A CLEAR YES",
+          "size": 56
+        }
+      ]
+    },
+    {
+      "label": "TRY IT",
+      "title": [
+        "Yes or",
+        "no thanks?"
+      ],
+      "blocks": [
+        {
+          "type": "example",
+          "jp": "もう一杯いかがですか。",
+          "en": "Would you like another cup?",
+          "note": "THE OFFER",
+          "size": 54
+        },
+        {
+          "type": "example",
+          "jp": "いいです。",
+          "en": "Could be either. Tone decides.",
+          "note": "THE ANSWER",
+          "size": 64
+        },
+        {
+          "type": "rows",
+          "items": [
+            {
+              "text": "So skip it after offers",
+              "icon": "ok"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "cta",
+      "title": [
+        "Use it",
+        "this week."
+      ],
+      "blocks": [
+        {
+          "type": "cta",
+          "text": "Save it now",
+          "icon": "bookmark"
+        }
+      ]
+    }
+  ],
+  "social": {
+    "caption": "Someone offers you tea and you say いいです. Your host may not know if that is yes or no thanks.\n\nいいです (ii desu) after an offer can mean good, or I am fine without it.\n\nFor yes: はい、お願いします (hai, onegai shimasu) = yes, please. いただきます (itadakimasu) = I will gladly have it.\nFor no: ありがとうございます。遠慮させていただきます (enryo sasete itadakimasu) = thank you, I will politely pass.\n\nException: if someone asks いいですか (is it okay?), はい、いいですよ is a clear yes.\n\nSave it now, use it this week.",
+    "hashtags": "#LearnJapanese #JapaneseTips #JapanesePhrases #JapaneseManners #JapaneseConversation"
+  },
+  "meta": {
+    "format": "value",
+    "pillar": "never-say",
+    "shape": "teardown",
+    "angle": "",
+    "cta": "save",
+    "refs": "deepen:reel6"
+  },
+  "sources": [
+    "https://www.tkgje.jp/entries/00000/00118_ii.html",
+    "https://www.likejapan.com/en/?p=59880",
+    "https://cotoacademy.com/?p=4195"
+  ],
+  "tag": "NEVER SAY",
+  "style": "Calm and direct, like a friend correcting you kindly. Slow on the Japanese."
+}

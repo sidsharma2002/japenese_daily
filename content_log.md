@@ -17,3 +17,4 @@
 | 2026-11-06 | carousel | 6 | value | really-means | dialogue |  | 検討します often means no | Sounds like a maybe. Often means no. One polite business word, and what to do next. | share | deepen:reel7 |
 | 2026-11-07 | reel | 8 | value | fake-english | decode |  | クレーム is a complaint, not a claim | This English-looking word does not mean what you think. In Japan, it means complaint. | none |  |
 | 2026-11-07 | carousel | 7 | value | fake-english | decode |  | クレーム is a complaint, not a claim | This English looking word does not mean what you think. In Japan, it means complaint. | follow | deepen:reel8 |
+| 2026-11-10 | carousel | 8 | value | never-say | teardown |  | Never answer an offer with いいです | Offered tea? Never reply with いいです. Your host may not know if that is yes or no. | save | deepen:reel6 |
