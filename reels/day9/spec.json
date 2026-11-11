@@ -1,0 +1,226 @@
+{
+ "topic": "Three lines at the konbini checkout",
+ "tag": "SAY IT HERE",
+ "closeLabel": "RECAP",
+ "style": "Relaxed and vivid, like describing a scene to a friend. Slow and clear on the Japanese.",
+ "script": {
+  "hook": "Three lines will get you through any konbini checkout, even on your first day in Japan.",
+  "points": [
+   "First, you are holding a bento at the counter. The clerk asks, あたためますか. That is, shall I heat it up? Say, おねがいします. You are saying, yes, please.",
+   "Second, the bag. The clerk asks, ふくろは、いりますか. That is, do you want a bag? To say no thanks, say, だいじょうぶです. You are saying, I am fine.",
+   "Third, the chopsticks. The clerk asks, おはしを、おつけしますか. That is, shall I add chopsticks? To pass, say, いらないです. You are saying, I do not need them."
+  ],
+  "takeaway": "Quick extra. If the clerk forgets to ask, you can lead. Say, あたためてください. In English, please heat this. Say all three out loud once before your next trip.",
+  "cta": "Save this for your next trip to Japan."
+ },
+ "nodes": [
+  {
+   "title": [
+    "Konbini",
+    "checkout"
+   ],
+   "blocks": [
+    {
+     "type": "rows",
+     "items": [
+      {
+       "text": "Heat it?",
+       "icon": "ok",
+       "cue": "three"
+      },
+      {
+       "text": "A bag?",
+       "icon": "ok",
+       "cue": "any"
+      },
+      {
+       "text": "Chopsticks?",
+       "icon": "ok",
+       "cue": "konbini"
+      }
+     ]
+    },
+    {
+     "type": "big",
+     "text": "3 lines",
+     "sub": "that is all you need",
+     "cue": "checkout",
+     "h": 170
+    }
+   ]
+  },
+  {
+   "title": [
+    "1. Heat it?"
+   ],
+   "blocks": [
+    {
+     "type": "jp",
+     "jp": "温めますか",
+     "reading": "あたためますか",
+     "en": "Shall I heat it up?",
+     "size": 84,
+     "cue": "あたためますか",
+     "readingCue": "あたためますか",
+     "enCue": "heat it up"
+    },
+    {
+     "type": "jp",
+     "jp": "お願いします",
+     "reading": "おねがいします",
+     "en": "Yes, please.",
+     "size": 84,
+     "cue": "おねがいします",
+     "readingCue": "おねがいします",
+     "enCue": "yes"
+    }
+   ]
+  },
+  {
+   "title": [
+    "2. A bag?"
+   ],
+   "blocks": [
+    {
+     "type": "jp",
+     "jp": "袋は要りますか",
+     "reading": "ふくろはいりますか",
+     "en": "Do you want a bag?",
+     "size": 76,
+     "cue": "ふくろは、いりますか",
+     "readingCue": "ふくろは、いりますか",
+     "enCue": "want a bag"
+    },
+    {
+     "type": "jp",
+     "jp": "大丈夫です",
+     "reading": "だいじょうぶです",
+     "en": "No thanks (I am fine).",
+     "size": 84,
+     "cue": "だいじょうぶです",
+     "readingCue": "だいじょうぶです",
+     "enCue": "fine"
+    }
+   ]
+  },
+  {
+   "title": [
+    "3. Chopsticks?"
+   ],
+   "titleSize": 84,
+   "blocks": [
+    {
+     "type": "jp",
+     "jp": "お箸をお付けしますか",
+     "reading": "おはしをおつけしますか",
+     "en": "Shall I add chopsticks?",
+     "size": 64,
+     "cue": "おはしを、おつけしますか",
+     "readingCue": "おはしを、おつけしますか",
+     "enCue": "add chopsticks"
+    },
+    {
+     "type": "jp",
+     "jp": "いらないです",
+     "reading": "",
+     "en": "I do not need them.",
+     "size": 84,
+     "cue": "いらないです",
+     "enCue": "need"
+    }
+   ]
+  },
+  {
+   "title": [
+    "Forgot to",
+    "ask?"
+   ],
+   "blocks": [
+    {
+     "type": "example",
+     "jp": "温めてください。",
+     "en": "Please heat this.",
+     "note": "IF THE CLERK FORGETS",
+     "cue": "あたためてください",
+     "enCue": "please heat",
+     "noteCue": "forgets"
+    },
+    {
+     "type": "pills",
+     "items": [
+      {
+       "text": "おねがいします",
+       "jp": true,
+       "size": 28,
+       "cue": "all three"
+      },
+      {
+       "text": "だいじょうぶです",
+       "jp": true,
+       "size": 28,
+       "cue": "out loud"
+      },
+      {
+       "text": "いらないです",
+       "jp": true,
+       "size": 28,
+       "cue": "once"
+      }
+     ],
+     "h": 90
+    },
+    {
+     "type": "cta",
+     "text": "Save this",
+     "icon": "bookmark",
+     "cue": "save"
+    }
+   ]
+  }
+ ],
+ "cover": {
+  "tag": "SAY IT HERE",
+  "lines": [
+   "Konbini",
+   "checkout"
+  ],
+  "sub": "Three lines you need",
+  "card": {
+   "type": "cells",
+   "items": [
+    {
+     "text": "温めて",
+     "jp": true,
+     "size": 44
+    },
+    {
+     "text": "袋は",
+     "jp": true,
+     "size": 44
+    },
+    {
+     "text": "お箸",
+     "jp": true,
+     "size": 44
+    }
+   ]
+  }
+ },
+ "social": {
+  "caption": "Three lines will get you through any konbini checkout.\n\n1. 温めますか (atatamemasu ka) = shall I heat it up? Answer: お願いします (onegai shimasu) = yes, please.\n2. 袋は要りますか (fukuro wa irimasu ka) = do you want a bag? Answer: 大丈夫です (daijoubu desu) = no thanks, I am fine.\n3. お箸をお付けしますか (ohashi o otsuke shimasu ka) = shall I add chopsticks? Answer: いらないです (iranai desu) = I do not need them.\n\nIf the clerk forgets to ask: 温めてください (atatamete kudasai) = please heat this.\n\nSave this for your next trip to Japan.",
+  "hashtags": "#LearnJapanese #JapaneseTips #KonbiniJapanese #JapanTravel #JapanesePhrases"
+ },
+ "meta": {
+  "format": "value",
+  "pillar": "say-it-here",
+  "shape": "scene",
+  "angle": "",
+  "cta": "save",
+  "refs": ""
+ },
+ "sources": [
+  "https://www.tsunagujapan.com/12-phrases-at-convenience-stores-with-responses/",
+  "https://jw-webmagazine.com/tips/japanese-conversation-at-convenience-stores/",
+  "https://www.alexrockinjapanese.com/complete-japanese-convenience-store-phrase-list/"
+ ]
+}

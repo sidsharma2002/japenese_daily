@@ -18,3 +18,4 @@
 | 2026-11-07 | reel | 8 | value | fake-english | decode |  | クレーム is a complaint, not a claim | This English-looking word does not mean what you think. In Japan, it means complaint. | none |  |
 | 2026-11-07 | carousel | 7 | value | fake-english | decode |  | クレーム is a complaint, not a claim | This English looking word does not mean what you think. In Japan, it means complaint. | follow | deepen:reel8 |
 | 2026-11-10 | carousel | 8 | value | never-say | teardown |  | Never answer an offer with いいです | Offered tea? Never reply with いいです. Your host may not know if that is yes or no. | save | deepen:reel6 |
+| 2026-11-11 | reel | 9 | value | say-it-here | scene |  | Three lines at the konbini checkout | Three lines will get you through any konbini checkout, even on your first day in Japan. | save |  |
